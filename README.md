@@ -5,6 +5,10 @@
 **Affiliation:** ISOC Chapter Comoros  
 **Status:** Individual Submission – Informational
 
+## 🌐 Online Preview (GitHub Pages)
+
+👉 [Click here to read the HTML version](https://karimattoumanimohamed.github.io/draft-attoumani-ietf-inclusion/)
+
 ## 📄 Abstract
 
 This Internet-Draft affirms that the governance and activities of the IETF must be inclusive, accessible, and safe for all individuals, regardless of geography, language, race, gender, or sexual orientation. It expands on diversity-related RFCs and proposes recommendations for inclusive venue selection and multilingual support.
