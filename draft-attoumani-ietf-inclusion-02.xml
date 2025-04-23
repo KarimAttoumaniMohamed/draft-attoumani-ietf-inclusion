@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rfc SYSTEM "rfc2629.dtd">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" docName="draft-attoumani-ietf-inclusion-02" category="info" updates="" ipr="trust200902" submissionType="IETF" consensus="false" xml:lang="en">
+  <front>
+    <title abbrev="Inclusive IETF Governance">The IETF is for Everyone: Toward Inclusive and Equitable Participation in Internet Governance</title>
+    <author fullname="Karim ATTOUMANI MOHAMED" initials="K." surname="ATTOUMANI MOHAMED">
+      <organization>Chapitre ISOC Comores</organization>
+      <address>
+        <postal>
+          <country>Comoros</country>
+        </postal>
+        <email>karimattoumanimohamed@gmail.com</email>
+      </address>
+    </author>
+    <date year="2025" month="April" day="23"/>
+    <area>General</area>
+    <workgroup>Individual Submission</workgroup>
+    <abstract>
+      <t>This document affirms that the governance and activities of the IETF must be inclusive, accessible, and safe for all individuals, regardless of geography, language, race, gender, or sexual orientation. It expands on prior diversity and venue policy RFCs and calls for community reflection on enhancing participation through inclusive meeting practices and multilingual support.</t>
+    </abstract>
+    <note title="Status of this Memo">
+      <t>This Internet-Draft is submitted in full conformance with the provisions of BCP 78 and BCP 79.</t>
+    </note>
+  </front>
+  <middle>
+    <section title="Introduction" anchor="intro">
+      <section title="Scope and Audience" anchor="scope">
+        <t>This document is primarily intended for the IETF community to prompt internal reflection and dialogue on inclusiveness in meeting governance. It may also be of interest to external observers, such as standards organizations, governance bodies, and civil society actors interested in transparent and equitable Internet infrastructure development.</t>
+      </section>
+      <section title="Context" anchor="context">
+        <t>The IETF promotes an open, global Internet. This draft builds upon the principles in RFC 3271, RFC 7704, RFC 8718, and RFC 9501, identifying gaps in inclusivity that persist—particularly regarding venue selection and equitable participation for all identities and regions.</t>
+      </section>
+    </section>
+    <section title="Problem Statement: Exclusion in IETF Governance Practices" anchor="problem">
+      <t>Although the IETF values openness, many contributors still face barriers based on region, identity, or legal/political context. Some venues discourage participation from marginalized communities due to safety or legal risks, e.g., LGBTQ+ individuals. Venue policy lacks human rights and inclusivity criteria.</t>
+    </section>
+    <section title="Review of Existing RFCs and Gaps" anchor="review">
+      <t>This draft complements:</t>
+      <t>- RFC 8718: Meeting Venue Requirements</t>
+      <t>- RFC 8719: High-Level Meeting Policy</t>
+      <t>- RFC 7704: Diversity and Conduct</t>
+      <t>- RFC 9501: Remote Participation Fees</t>
+      <t>None of these documents define safety, nor do they provide tools for evaluating host country inclusiveness or human rights implications.</t>
+    </section>
+    <section title="Principles for Inclusive Meeting Participation" anchor="principles">
+      <t>- Prioritize safety, dignity, and legal protection of all participants</t>
+      <t>- Expand outreach and support to underrepresented regions and identities</t>
+      <t>- Apply a non-discrimination filter in site selection</t>
+    </section>
+    <section title="Considerations for Safe and Equitable Venue Selection" anchor="venues">
+      <t>Venue policies should include criteria assessing the risk of exclusion due to local laws or societal practices. A Participation Impact Assessment could help guide decisions.</t>
+    </section>
+    <section title="Multilingualism as an Enabler" anchor="multilingualism">
+      <t>Multilingualism should be viewed as a support mechanism for broader inclusion, not as a separate issue. AI-based tools now allow real-time translation of materials and transcripts, enabling greater accessibility for non-English speakers.</t>
+    </section>
+    <section title="Recommendations (Non-Prescriptive)" anchor="recommendations">
+      <section title="Initiate Community Dialogues on Venue Inclusivity" anchor="recommendations-dialogue">
+        <t>It is recommended to begin with community-wide discussions to assess whether the current venue policies sufficiently address inclusivity and equitable participation. This could be explored in informal side meetings, BoFs, or through Gen-Dispatch. Open conversations are essential for validating whether the issue resonates broadly before pursuing structural changes.</t>
+      </section>
+      <section title="Develop Guidelines for Safety and Diversity Assessment" anchor="recommendations-guidelines">
+        <t>Establish a non-binding set of guidelines or a Participation Impact Assessment model to help assess the legal, social, and cultural inclusivity of candidate host cities. These tools would help the LLC, Secretariat, or selecting bodies to make informed, equitable decisions without overburdening the process.</t>
+      </section>
+      <section title="Encourage Multilingual Interface Support" anchor="recommendations-multilingual">
+        <t>Promote multilingual access to IETF resources by leveraging AI-powered translation tools for scribing, document summaries, and tool interfaces. Although English remains the working language, technological progress offers real opportunities to reduce friction for non-English speakers.</t>
+      </section>
+    </section>
+    <section title="Next Steps and Community Discussion" anchor="next">
+      <t>This draft is intended to initiate a broader dialogue. A side meeting during IETF 123 will serve as a forum for input and co-development of future solutions.</t>
+    </section>
+    <section title="Acknowledgements" anchor="ack">
+      <t>Thanks to the IETF community members who supported early discussion on this issue, especially during IETF 122 and informal feedback sessions.</t>
+    </section>
+    <section title="IANA and Security Considerations" anchor="iana">
+      <t>This document requires no actions from IANA and has no protocol-level security implications. It supports the psychological safety and inclusion of contributors.</t>
+    </section>
+  </middle>
+  <back>
+    <references title="Normative References"/>
+  </back>
+</rfc>

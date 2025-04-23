@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rfc category="info" docName="draft-attoumani-ietf-inclusion-01" ipr="trust200902" submissionType="independent" updates="">
+  <front>
+    <title abbrev="IETF Inclusion">The IETF is for Everyone: Toward Inclusive and Equitable Participation in Internet Governance</title>
+    <author fullname="Karim ATTOUMANI MOHAMED" initials="K." surname="ATTOUMANI MOHAMED">
+      <organization>Chapitre ISOC Comores</organization>
+      <address>
+        <postal>
+          <country>Comoros</country>
+        </postal>
+        <email>karimattoumanimohamed@gmail.com</email>
+      </address>
+    </author>
+    <date year="2025" month="April" day="8" />
+    <abstract>
+      <t>This document affirms that the governance and activities of the IETF must be inclusive, accessible, and safe for all individuals, regardless of geography, language, race, gender, or sexual orientation. While the IETF promotes global Internet standards for everyone, structural and contextual barriers still limit the full and equal participation of many stakeholders, particularly from underrepresented regions and marginalized communities. This draft proposes key principles and recommendations to ensure that IETF meetings and processes reflect the foundational values of openness, diversity, inclusion, and non-discrimination.</t>
+    </abstract>
+  </front>
+  <middle>
+    <section title="Introduction"><t>The IETF’s mission to create a globally interoperable Internet is rooted in principles of openness, collaboration, and technical excellence. As the Internet continues to evolve, it is essential that the processes and governance of the IETF also reflect a strong commitment to inclusion, diversity, and equitable participation.</t><t>This draft proposes steps to further strengthen these values by ensuring that all individuals — regardless of geography, language, identity, or background — have the opportunity to safely and meaningfully engage in the IETF’s work.</t></section><section title="Problem Statement">
+      <t>Challenges include:</t>
+      <t>- Hosting meetings in countries with policies that exclude groups</t>
+      <t>(e.g., LGBTQ+);</t>
+      <t>- English as the sole working language limits global participation;</t>
+      <t>- High participation costs for attendees from developing countries;</t>
+      <t>- Lack of support and safety mechanisms for newcomers or marginalized</t>
+      <t>groups.</t>
+    <t>This draft builds upon foundational IETF efforts, including:</t><t>- RFC 7704 and RFC 7154 (diversity and respectful conduct),</t><t>- RFC 8718 and RFC 9712 (venue selection and consideration of local laws),</t><t>- RFC 9501 (open participation principles),</t><t>- and BCP 226 (guidelines on security and privacy considerations in RFCs).</t><t>However, important gaps remain:</t><t>- Venue selection does not explicitly exclude locations where participation might be unsafe for some groups (e.g., LGBTQ+ individuals),</t><t>- Cultural, linguistic, and indirect discriminatory barriers are not sufficiently addressed,</t><t>- There is no consolidated principle of zero tolerance for discrimination, nor measurable inclusion indicators in governance processes.</t><t>This draft aims to complement and extend these efforts by formalizing inclusive governance principles and actionable steps.</t></section>
+    <section title="Principles for Inclusive Governance">
+      <t>The following principles aim to ensure that IETF governance,</t>
+      <t>meetings, and processes are inclusive in both design and</t>
+      <t>implementation:</t>
+      <t>- Zero tolerance for discrimination across all IETF spaces and</t>
+      <t>interactions, including on the basis of race, gender, language,</t>
+      <t>region, ability, or sexual orientation;</t>
+      <t>- Safe, inclusive, and legally enabling meeting locations, selected</t>
+      <t>with explicit consideration of local human rights and the freedom</t>
+      <t>to participate without fear of exclusion or persecution;</t>
+      <t>- Active inclusion strategies, not just openness—including targeted</t>
+      <t>outreach, accessible documentation, and cultural sensitivity;</t>
+      <t>- Linguistic and cultural diversity, promoted through multilingual</t>
+      <t>interfaces, translated summaries, and AI-powered accessibility</t>
+      <t>tools;</t>
+      <t>- Equity-driven financial and technical support mechanisms,</t>
+      <t>prioritizing participation from underrepresented regions and</t>
+      <t>communities;</t>
+      <t>- Inclusion as a measurable success metric, with regular public</t>
+      <t>reporting on progress and challenges.</t>
+    </section>
+    <section title="Recommendations">
+      <t>To operationalize the principles of inclusive governance, this draft</t>
+      <t>recommends the following actions:</t>
+      <t>- Participation Impact Assessments should be systematically conducted</t>
+      <t>for every proposed IETF meeting venue, evaluating risks related to</t>
+      <t>discrimination, legal exclusion, and safety for all stakeholders;</t>
+      <t>- Selection of host countries should prioritize jurisdictions with</t>
+      <t>clear commitments to human rights, non-discrimination, and safe</t>
+      <t>civic space, especially for marginalized groups;</t>
+      <t>- Promotion of multilingualism through the use of AI-based translation</t>
+      <t>tools, the availability of key documents in multiple languages, and</t>
+      <t>the encouragement of multilingual interactions;</t>
+      <t>- Expansion of mentoring and newcomer programs, with special focus on</t>
+      <t>participants from developing economies, non-English-speaking</t>
+      <t>regions, and underrepresented communities;</t>
+      <t>- Creation of safe spaces during meetings and implementation of clear</t>
+      <t>and visible enforcement mechanisms for the IETF's Code of Conduct;</t>
+      <t>- Proactive inclusion of diverse voices in working groups, leadership,</t>
+      <t>decision-making processes, and community consultations;</t>
+      <t>- Annual publication of an "Inclusion and Accessibility Report",</t>
+      <t>assessing progress and identifying ongoing gaps in diversity,</t>
+      <t>equity, and participation.</t>
+    </section>
+    <section title="The Value of Diversity and Multilingual Innovation">
+      <t>The diversity of perspectives—across cultures, economies, and lived</t>
+      <t>experiences—has been shown to be a key driver of innovation and</t>
+      <t>creativity. For the Internet to truly serve everyone, it must evolve</t>
+      <t>in ways that reflect the diversity of global needs, contexts, and</t>
+      <t>cultural habits. In the age of Artificial Intelligence, multilingual</t>
+      <t>systems offer a significant opportunity to improve accessibility to</t>
+      <t>IETF work, display existing outputs in more languages, and facilitate</t>
+      <t>better interactions across communities. These innovations can amplify</t>
+      <t>the participation of underrepresented voices and enhance the</t>
+      <t>inclusiveness of the IETF process.</t>
+    </section>
+    <section title="Conclusion">
+      <t>The Internet is a global resource. The IETF must reflect this in its</t>
+      <t>values, operations, and community engagement. Everyone must feel safe,</t>
+      <t>welcomed, and empowered to contribute.</t>
+    </section>
+    <section title="Acknowledgements">
+      <t>Inspired by RFC 3271, RFC 8890, and the lived experiences of Global</t>
+      <t>South and marginalized communities working for a better Internet.</t>
+    </section>
+  </middle>
+  <back>
+    <section title="Security Considerations"><t>This document does not define a protocol and introduces no direct technical mechanisms that affect the security of Internet communications.</t><t>However, the document follows the spirit of BCP 226 by highlighting how the exclusion of individuals or groups from the IETF process — based on geography, identity, or political context — may result in long-term systemic risks. These include a lack of trust, unequal representation in protocol development, and unintended impacts on end-user safety.</t><t>A more inclusive IETF strengthens the legitimacy and security of the Internet as a whole.</t></section><section title="IANA Considerations">
+      <t>This document does not require any IANA actions.</t>
+    </section>
+    <section title="Author's Address">
+      <t>Karim ATTOUMANI MOHAMED</t>
+      <t>Chapitre ISOC Comores</t>
+      <t>Email: karimattoumanimohamed@gmail.com</t>
+    </section>
+  </back>
+</rfc>
