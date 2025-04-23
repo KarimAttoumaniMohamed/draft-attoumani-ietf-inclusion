@@ -2,7 +2,7 @@
 
 **Draft name:** `draft-attoumani-ietf-inclusion`  
 **Author:** Karim ATTOUMANI MOHAMED  
-**Affiliation:** Telecom Comores SA / Axian Group  
+**Affiliation:** ISOC Chapter Comoros  
 **Status:** Individual Submission – Informational
 
 ## 📄 Abstract
