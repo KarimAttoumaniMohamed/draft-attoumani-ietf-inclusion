@@ -1,0 +1,336 @@
+
+
+
+
+Network Working Group                               K. ATTOUMANI MOHAMED
+Internet-Draft            University of Toamasina / ISOC Comoros Chapter
+Intended status: Informational                               C. Ogundele
+Expires: 24 February 2026                     Internet Governance Expert
+                                                             August 2025
+
+
+ The IETF is for Everyone: Toward Inclusive and Equitable Participation
+                         in Internet Governance
+                   draft-attoumani-ietf-inclusion-03
+
+Abstract
+
+   This document aims to foster a deeper reflection within the IETF
+   community on inclusive participation, equitable access, and the
+   implications of global meeting venue selections on diverse
+   contributors.  It seeks to complement existing RFCs by proposing
+   additional dialogue, tools, and evaluation mechanisms.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 2 February 2026.
+
+Copyright Notice
+
+   Copyright (c) 2025 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 1]
+
+Internet-Draft               IETF Inclusion                  August 2025
+
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Motivations and Context . . . . . . . . . . . . . . . . . . .   3
+   3.  Community Feedback and Observations . . . . . . . . . . . . .   3
+   4.  Proposed Directions . . . . . . . . . . . . . . . . . . . . .   3
+     4.1.  Initiate Community Dialogues on Venue Inclusivity . . . .   3
+     4.2.  Develop Operational Tools for Assessment  . . . . . . . .   3
+     4.3.  Support Regional Engagement and Rotations . . . . . . . .   3
+     4.4.  Academic Recognition Pathways . . . . . . . . . . . . . .   4
+     4.5.  Enhanced Grassroots Engagement and Youth Involvement  . .   4
+     4.6.  Advance Multilingual and Accessible Communication . . . .   4
+   5.  Conclusion  . . . . . . . . . . . . . . . . . . . . . . . . .   4
+   6.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   5
+     6.1.  Normative References  . . . . . . . . . . . . . . . . . .   5
+     6.2.  Informative References  . . . . . . . . . . . . . . . . .   5
+   Appendix A.  Acknowledgments  . . . . . . . . . . . . . . . . . .   5
+   Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .   5
+
+1.  Introduction
+
+   The Internet Engineering Task Force (IETF) has long promoted
+   principles of openness, inclusivity, and technical excellence.  As
+   the global Internet landscape evolves, so too must our mechanisms for
+   ensuring equitable participation.
+
+   This document responds to growing calls for reflection on how the
+   IETF addresses systemic and structural barriers that affect
+   contributors from underrepresented regions and communities.  Building
+   on existing frameworks and policies, this draft outlines community-
+   driven proposals to foster greater inclusion in practice.
+
+   In particular, it highlights three underexplored dimensions: (1) the
+   lack of academic recognition and incentives for contributors; (2) the
+   recurring concerns around meeting venue accessibility, safety, and
+   equity; and (3) the need for targeted grassroots engagement —
+   especially in Africa and other underserved regions — to build long-
+   term pipelines for contribution.
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 2]
+
+Internet-Draft               IETF Inclusion                  August 2025
+
+
+   Through collaborative strategies such as mentorship, multilingual
+   onboarding, university engagement, and periodic community
+   consultations (e.g., Africa IGF 2025), this draft invites discussion
+   on how the IETF can better align its practices with its foundational
+   commitments to openness and global reach.
+
+2.  Motivations and Context
+
+   This draft was inspired by feedback from various IETF participants
+   and observations across recent meetings.  It acknowledges that while
+   RFCs 7704, 8718, and 9712 lay a strong foundation, practical issues
+   of access, safety, and diversity persist.  Community insights were
+   also gathered during Africa IGF 2025 consultations, where similar
+   challenges were voiced by participants across the continent.
+
+3.  Community Feedback and Observations
+
+   This section summarizes the key community feedback received:
+
+   *  The challenge of travel barriers (visas, safety, cost).
+
+   *  Limited regional rotation (e.g., no IETF meetings in Africa).
+
+   *  Importance of hallway track and in-person connections.
+
+   *  Barriers to mentorship and project engagement beyond venue issues.
+
+4.  Proposed Directions
+
+4.1.  Initiate Community Dialogues on Venue Inclusivity
+
+   Encourage structured discussions on how the IETF selects and rotates
+   its venues, integrating considerations of safety, inclusion, and
+   representation, especially as conditions evolve between selection and
+   meeting time.
+
+4.2.  Develop Operational Tools for Assessment
+
+   Propose tools, scorecards, or collaborative reviews to assess venues
+   and host countries based on inclusiveness, accessibility, and risk of
+   exclusion.
+
+4.3.  Support Regional Engagement and Rotations
+
+   Explore concrete mechanisms to host meetings in underrepresented
+   regions (e.g., Africa), including logistical partnerships, travel
+   funds, and hybrid session enhancements.
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 3]
+
+Internet-Draft               IETF Inclusion                  August 2025
+
+
+4.4.  Academic Recognition Pathways
+
+   To bridge the academia-IETF divide:
+
+   *  *RFCs as peer-reviewed equivalents*: Advocate for tenure
+      committees to recognize RFCs (following German academic standards
+      valuing RFCs as 2 papers).
+
+   *  *University liaison program*: Create formal roles for CS
+      departments to co-develop standards.
+
+   *  *Curriculum integration*: Partner with AAU (https://www.aau.org/)
+      to offer academic credits for IETF contributions.
+
+4.5.  Enhanced Grassroots Engagement and Youth Involvement
+
+   Foster collaboration with universities, local Internet communities,
+   and grassroots organizations to demystify IETF processes, support
+   mentorship programs, and identify new contributors from
+   underrepresented regions.
+
+   For example for African participation:
+
+   *  IETF mirror events at African universities with hybrid
+      participation support.
+
+   *  Mobilizing Internet Society local chapters to involve youth and
+      academia in IETF work.
+
+   *  Mentorship pipelines connecting academia to WGs.
+
+4.6.  Advance Multilingual and Accessible Communication
+
+   Consider translating key onboarding materials and IETF resources into
+   additional languages to support broader global accessibility and
+   comprehension.  Develop metrics to track progress on inclusivity
+   goals.
+
+5.  Conclusion
+
+   This document does not propose immediate policy changes but instead
+   seeks to foster thoughtful community reflection and encourage
+   collaborative exploration of solutions that support the IETF’s
+   inclusivity goals.
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 4]
+
+Internet-Draft               IETF Inclusion                  August 2025
+
+
+   Through proposals on academic recognition, grassroots engagement,
+   venue selection dialogue, multilingual participation, and impact
+   metrics, this draft aims to offer constructive directions grounded in
+   community input and practical experience.
+
+   By broadening participation and addressing structural imbalances, the
+   IETF can continue to evolve as a truly global, open, and equitable
+   standards body.
+
+   Community feedback is warmly invited to refine, challenge, or build
+   upon these directions.
+
+6.  References
+
+6.1.  Normative References
+
+   [AAU]      AAU, "Association of African Universities",
+              URL https://www.aau.org/, 2025.
+
+6.2.  Informative References
+
+   [RFC7704]  Kuehlewind, S., "An IETF with Much Diversity and
+              Professional Conduct", RFC 7704, 2015,
+              <https://www.rfc-editor.org/rfc/rfc7704>.
+
+   [RFC8718]  Livingood, J., "IETF Plenary Meeting Venue Selection
+              Process", RFC 8718, 2020,
+              <https://www.rfc-editor.org/rfc/rfc8718>.
+
+   [RFC9712]  Barnes, C., "IETF Meeting Venue Requirements Review",
+              RFC 9712, 2023, <https://www.rfc-editor.org/rfc/rfc9712>.
+
+Appendix A.  Acknowledgments
+
+   The author thanks Martin Vigoureux, Peng Shuping, Michael Richardson,
+   Laurence Lundblade, and Vint Cerf for their thoughtful feedback,
+   which helped shape this version of the document.
+
+Authors' Addresses
+
+   Karim ATTOUMANI MOHAMED
+   University of Toamasina / ISOC Comoros Chapter
+   Comoros
+   Email: karimattoumanimohamed@gmail.com
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 5]
+
+Internet-Draft               IETF Inclusion                  August 2025
+
+
+   Caleb Ogundele
+   Internet Governance Expert
+   Nigeria
+   Email: muyiwacaleb@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED & OgunExpires 24 February 2026                [Page 6]

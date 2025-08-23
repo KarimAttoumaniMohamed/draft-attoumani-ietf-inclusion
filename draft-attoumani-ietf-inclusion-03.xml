@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE rfc>
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="info" ipr="trust200902" docName="draft-attoumani-ietf-inclusion-03" obsoletes="" updates="" submissionType="IETF" xml:lang="en" version="3">
+  <!-- xml2rfc v2v3 conversion 3.30.0 -->
+  <front>
+    <title abbrev="IETF Inclusion">The IETF is for Everyone: Toward Inclusive and Equitable Participation in Internet Governance</title>
+    <seriesInfo name="Internet-Draft" value="draft-attoumani-ietf-inclusion-03"/>
+    <author fullname="Karim ATTOUMANI MOHAMED" initials="K." surname="ATTOUMANI MOHAMED">
+      <organization>University of Toamasina / ISOC Comoros Chapter</organization>
+      <address>
+        <postal>
+          <country>Comoros</country>
+        </postal>
+        <email>karimattoumanimohamed@gmail.com</email>
+      </address>
+    </author>
+    <author fullname="Caleb Ogundele" initials="C." surname="Ogundele">
+      <organization>Internet Governance Expert</organization>
+      <address>
+        <postal>
+          <country>Nigeria</country>
+        </postal>
+        <email>muyiwacaleb@gmail.com</email>
+      </address>
+    </author>
+    <date year="2025" month="August"/>
+    <abstract>
+      <t>This document aims to foster a deeper reflection within the IETF community on inclusive participation, equitable access, and the implications of global meeting venue selections on diverse contributors. It seeks to complement existing RFCs by proposing additional dialogue, tools, and evaluation mechanisms.</t>
+    </abstract>
+  </front>
+  <middle>
+    <section anchor="intro" numbered="true" toc="default">
+      <name>Introduction</name>
+      <t>
+    The Internet Engineering Task Force (IETF) has long promoted principles of openness, inclusivity, and technical excellence. As the global Internet landscape evolves, so too must our mechanisms for ensuring equitable participation.
+      </t>
+      <t>
+    This document responds to growing calls for reflection on how the IETF addresses systemic and structural barriers that affect contributors from underrepresented regions and communities. Building on existing frameworks and policies, this draft outlines community-driven proposals to foster greater inclusion in practice.
+      </t>
+      <t>
+    In particular, it highlights three underexplored dimensions:
+    (1) the lack of academic recognition and incentives for contributors;
+    (2) the recurring concerns around meeting venue accessibility, safety, and equity; and
+    (3) the need for targeted grassroots engagement — especially in Africa and other underserved regions — to build long-term pipelines for contribution.
+      </t>
+      <t>
+    Through collaborative strategies such as mentorship, multilingual onboarding, university engagement, and periodic community consultations (e.g., Africa IGF 2025), this draft invites discussion on how the IETF can better align its practices with its foundational commitments to openness and global reach.
+      </t>
+    </section>
+    <section anchor="context" numbered="true" toc="default">
+      <name>Motivations and Context</name>
+      <t>This draft was inspired by feedback from various IETF participants and observations across recent meetings. It acknowledges that while RFCs 7704, 8718, and 9712 lay a strong foundation, practical issues of access, safety, and diversity persist. Community insights were also gathered during Africa IGF 2025 consultations, where similar challenges were voiced by participants across the continent.</t>
+    </section>
+    <section anchor="feedback" numbered="true" toc="default">
+      <name>Community Feedback and Observations</name>
+      <t>This section summarizes the key community feedback received:</t>
+      <ul spacing="normal">
+        <li>
+          <t>The challenge of travel barriers (visas, safety, cost).</t>
+        </li>
+        <li>
+          <t>Limited regional rotation (e.g., no IETF meetings in Africa).</t>
+        </li>
+        <li>
+          <t>Importance of hallway track and in-person connections.</t>
+        </li>
+        <li>
+          <t>Barriers to mentorship and project engagement beyond venue issues.</t>
+        </li>
+      </ul>
+    </section>
+    <section anchor="proposals" numbered="true" toc="default">
+      <name>Proposed Directions</name>
+      <section anchor="venue-dialogue" numbered="true" toc="default">
+        <name>Initiate Community Dialogues on Venue Inclusivity</name>
+        <t>Encourage structured discussions on how the IETF selects and rotates its venues, integrating considerations of safety, inclusion, and representation, especially as conditions evolve between selection and meeting time.</t>
+      </section>
+      <section anchor="tools" numbered="true" toc="default">
+        <name>Develop Operational Tools for Assessment</name>
+        <t>Propose tools, scorecards, or collaborative reviews to assess venues and host countries based on inclusiveness, accessibility, and risk of exclusion.</t>
+      </section>
+      <section anchor="regions" numbered="true" toc="default">
+        <name>Support Regional Engagement and Rotations</name>
+        <t>Explore concrete mechanisms to host meetings in underrepresented regions (e.g., Africa), including logistical partnerships, travel funds, and hybrid session enhancements.</t>
+      </section>
+      <section anchor="academic-recognition" numbered="true" toc="default">
+        <name>Academic Recognition Pathways</name>
+        <t>To bridge the academia-IETF divide:</t>
+        <ul spacing="normal">
+          <li>
+            <t><strong>RFCs as peer-reviewed equivalents</strong>: Advocate for tenure committees to recognize RFCs (following German academic standards valuing RFCs as 2 papers).</t>
+          </li>
+          <li>
+            <t><strong>University liaison program</strong>: Create formal roles for CS departments to co-develop standards.</t>
+          </li>
+          <li>
+            <t><strong>Curriculum integration</strong>: Partner with <eref target="https://www.aau.org/">AAU</eref> to offer academic credits for IETF contributions.</t>
+          </li>
+        </ul>
+      </section>
+      <section anchor="grassroots" numbered="true" toc="default">
+        <name>Enhanced Grassroots Engagement and Youth Involvement</name>
+        <t>Foster collaboration with universities, local Internet communities, and grassroots organizations to demystify IETF processes, support mentorship programs, and identify new contributors from underrepresented regions.</t>
+        <t>For example for African participation:</t>
+        <ul spacing="normal">
+          <li>
+            <t>IETF mirror events at African universities with hybrid participation support.</t>
+          </li>
+          <li>
+            <t>Mobilizing Internet Society local chapters to involve youth and academia in IETF work.</t>
+          </li>
+          <li>
+            <t>Mentorship pipelines connecting academia to WGs.</t>
+          </li>
+        </ul>
+      </section>
+      <section anchor="multilingual" numbered="true" toc="default">
+        <name>Advance Multilingual and Accessible Communication</name>
+        <t>Consider translating key onboarding materials and IETF resources into additional languages to support broader global accessibility and comprehension. Develop metrics to track progress on inclusivity goals.</t>
+      </section>
+    </section>
+    <section anchor="conclusion" numbered="true" toc="default">
+      <name>Conclusion</name>
+      <t>
+    This document does not propose immediate policy changes but instead seeks to foster thoughtful community reflection and encourage collaborative exploration of solutions that support the IETF’s inclusivity goals.
+      </t>
+      <t>
+    Through proposals on academic recognition, grassroots engagement, venue selection dialogue, multilingual participation, and impact metrics, this draft aims to offer constructive directions grounded in community input and practical experience.
+      </t>
+      <t>
+    By broadening participation and addressing structural imbalances, the IETF can continue to evolve as a truly global, open, and equitable standards body.
+      </t>
+      <t>
+    Community feedback is warmly invited to refine, challenge, or build upon these directions.
+      </t>
+    </section>
+  </middle>
+  <back>
+    <references>
+      <name>References</name>
+      <references>
+        <name>Normative References</name>
+        <reference anchor="AAU">
+          <front>
+            <title>Association of African Universities</title>
+            <author>
+              <organization>AAU</organization>
+            </author>
+            <date year="2025"/>
+          </front>
+          <seriesInfo name="URL" value="https://www.aau.org/"/>
+        </reference>
+      </references>
+      <references>
+        <name>Informative References</name>
+        <reference anchor="RFC7704">
+          <front>
+            <title>An IETF with Much Diversity and Professional Conduct</title>
+            <author initials="S." surname="Kuehlewind"/>
+            <date year="2015"/>
+          </front>
+          <seriesInfo name="RFC" value="7704"/>
+        </reference>
+        <reference anchor="RFC8718">
+          <front>
+            <title>IETF Plenary Meeting Venue Selection Process</title>
+            <author initials="J." surname="Livingood"/>
+            <date year="2020"/>
+          </front>
+          <seriesInfo name="RFC" value="8718"/>
+        </reference>
+        <reference anchor="RFC9712">
+          <front>
+            <title>IETF Meeting Venue Requirements Review</title>
+            <author initials="C." surname="Barnes"/>
+            <date year="2023"/>
+          </front>
+          <seriesInfo name="RFC" value="9712"/>
+        </reference>
+      </references>
+    </references>
+    <section numbered="true" toc="default">
+      <name>Acknowledgments</name>
+      <t>The author thanks Martin Vigoureux, Peng Shuping, Michael Richardson, Laurence Lundblade, and Vint Cerf for their thoughtful feedback, which helped shape this version of the document.</t>
+    </section>
+  </back>
+</rfc>
