@@ -11,6 +11,7 @@
 - Made metric targets indicative; replaced the calendar roadmap (dates already passed) with a phased roadmap.
 - Clarified that the community synthesis is qualitative and non-representative.
 - Referenced existing programs (ISOC Policymaker Program, IETF Education and Outreach Directorate).
+- Added a section "Institutional Advocacy and Partnerships" (AUC, UNECA, UNESCO, AFRINIC, ISOC), clarifying that such engagement does not imply any role in IETF decision-making.
 - Added the Africa IGF 2026 session "Africa at the Standards Table" (Accra, 3 November 2026).
 - Added Security and IANA Considerations; fixed the duplicated appendix title.
 
