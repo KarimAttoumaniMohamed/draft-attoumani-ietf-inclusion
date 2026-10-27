@@ -35,9 +35,10 @@ This document aims to foster a deeper reflection within the IETF community on in
 | -00 | 2025-04-10 | `draft-attoumani-ietf-inclusion-00.xml` |
 | -01 | 2025-04-11 | `draft-attoumani-ietf-inclusion-01.xml` |
 | -02 | 2025-04-22 | `draft-attoumani-ietf-inclusion-02.xml` |
-| -03 | 2025-08-07 | `draft-attoumani-ietf-inclusion-03.xml`, `.txt`, `.html` |
+| -03 | 2025-08-07 | `draft-attoumani-ietf-inclusion-03.xml`, `.txt`, `.html` (co-authored with C. Ogundele) |
 | -04 | 2026-02-08 | `draft-attoumani-ietf-inclusion-04.xml`, `.txt`, `.html` |
 | -05 | 2026-08-11 | `draft-attoumani-ietf-inclusion-05.xml`, `.txt`, `.html` |
+| -06 | in preparation | `draft-attoumani-ietf-inclusion-06.xml`, `.txt`, `.html` (not yet submitted) |
 
 The authoritative copies of every revision are archived on the [Datatracker](https://datatracker.ietf.org/doc/draft-attoumani-ietf-inclusion/). See [CHANGELOG.md](CHANGELOG.md) for the changes between revisions.
 

@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE rfc>
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="info" ipr="trust200902" docName="draft-attoumani-ietf-inclusion-05" obsoletes="" updates="" submissionType="IETF" xml:lang="en" version="3">
+  <front>
+    <title abbrev="Inclusive IETF Governance">The IETF is for Everyone: Toward Inclusive and Equitable Participation in Internet Governance</title>
+    <seriesInfo name="Internet-Draft" value="draft-attoumani-ietf-inclusion-05"/>
+    <author fullname="Karim ATTOUMANI MOHAMED" initials="K." surname="ATTOUMANI MOHAMED">
+      <organization>University of Toamasina / ISOC Comoros Chapter</organization>
+      <address>
+        <postal>
+          <country>Comoros</country>
+        </postal>
+        <email>karimattoumanimohamed@gmail.com</email>
+      </address>
+    </author>
+    <date year="2026" month="08" day="11"/>
+    <abstract>
+      <t>This document aims to foster a deeper reflection within the IETF community on inclusive participation, equitable access, and the implications of global meeting venue selections on diverse contributors. It seeks to complement existing RFCs by proposing additional dialogue, tools, and evaluation mechanisms, while also highlighting the shared responsibility of underrepresented regions in mobilizing local stakeholders to engage with the IETF. This draft includes concrete proposals, metrics, and an implementation roadmap to move from discussion to action.</t>
+    </abstract>
+  </front>
+  <middle>
+    <section anchor="intro" numbered="true" toc="default">
+      <name>Introduction</name>
+      <t>The Internet Engineering Task Force (IETF) has long promoted principles of openness, inclusivity, and technical excellence. As the global Internet landscape evolves, so too must our mechanisms for ensuring equitable participation.</t>
+      <t>This document responds to growing calls for reflection on how the IETF addresses systemic and structural barriers that affect contributors from underrepresented regions and communities. Building on existing frameworks and policies, this draft outlines community-driven proposals to foster greater inclusion in practice.</t>
+      <t>In particular, it highlights three underexplored dimensions:
+    (1) the lack of academic recognition and incentives for contributors;
+    (2) the recurring concerns around meeting venue accessibility, safety, and equity; and
+    (3) the need for targeted grassroots engagement — especially in Africa and other underserved regions — to build long-term pipelines for contribution.</t>
+      <t>Through collaborative strategies such as mentorship, multilingual onboarding, university engagement, and periodic community consultations (e.g., Africa IGF 2025), this draft invites discussion on how the IETF can better align its practices with its foundational commitments to openness and global reach.</t>
+      <t>Importantly, this document also emphasizes that inclusion is a shared responsibility. While the IETF must lower barriers and facilitate access, communities in underrepresented regions must also proactively mobilize youth, academia, policymakers, and local technical communities to engage with and contribute to the IETF's work.</t>
+    </section>
+
+    <section anchor="metrics" numbered="true" toc="default">
+      <name>Current Participation Metrics and Gaps</name>
+      <t>Despite ongoing efforts, participation in IETF activities remains uneven across global regions. Analysis of recent IETF meeting data reveals significant disparities:</t>
+      <ul spacing="normal">
+        <li><t>Less than 5% of attendees from African countries (IETF 115-119 statistics)</t></li>
+        <li><t>Zero IETF meetings held in Africa since inception (vs. 45+ in North America)</t></li>
+        <li><t>Under 2% of RFC authors from African academic or research institutions</t></li>
+        <li><t>Visa denial rates exceeding 30% for participants from certain Global South regions</t></li>
+        <li><t>Only 15% of IETF leadership positions (WG chairs, ADs) held by participants from outside North America and Europe</t></li>
+      </ul>
+      <t>These metrics highlight structural imbalances that require targeted interventions to ensure the IETF's technical standards reflect truly global perspectives and use cases.</t>
+    </section>
+
+    <section anchor="context" numbered="true" toc="default">
+      <name>Motivations and Context</name>
+      <t>This draft was inspired by feedback from various IETF participants and observations across recent meetings. It acknowledges that while RFCs 7704, 8718, and 9712 lay a strong foundation, practical issues of access, safety, and diversity persist. Community insights were also gathered during Africa IGF 2025 consultations, where similar challenges were voiced by participants across the continent.</t>
+      <t>A recurring theme is the need to rebalance efforts: while the IETF should continue improving its processes, regions with lower participation must also develop local strategies to identify, mentor, and sponsor new contributors, and advocate for the relevance of IETF work within their own governance and academic ecosystems.</t>
+    </section>
+
+    <section anchor="alignment" numbered="true" toc="default">
+      <name>Alignment with Global Digital Governance Frameworks</name>
+      <t>Promoting inclusive participation in Internet standards development is not merely an ethical imperative but aligns with multiple global digital governance frameworks and commitments:</t>
+      <ul spacing="normal">
+        <li><t>UN Sustainable Development Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization</t></li>
+        <li><t>ITU's Connect 2030 Agenda: Leave no one offline, with specific focus on bridging digital divides</t></li>
+        <li><t>African Union Digital Transformation Strategy 2020-2030: Calls for meaningful African participation in global Internet governance</t></li>
+        <li><t>Internet Society's 2025 Action Plan: Explicitly commits to an Internet for Everyone through inclusive governance</t></li>
+        <li><t>UN Secretary-General's Roadmap for Digital Cooperation: Emphasizes inclusive multistakeholder participation in technical standards</t></li>
+      </ul>
+      <t>By addressing participation gaps, the IETF contributes to these broader global development objectives while strengthening the legitimacy and relevance of its technical standards.</t>
+    </section>
+
+    <section anchor="voices" numbered="true" toc="default">
+      <name>Voices from the Community (Synthesis of Regional Discussions)</name>
+      <t>This section reflects recurring themes and concerns raised during community discussions held in various regional and global forums, including Africa IGF sessions, Internet Society chapter meetings, and informal technical community exchanges. While not exhaustive, these perspectives illustrate structural barriers to participation and highlight opportunities for reform.</t>
+      <t>Participants from academic and technical communities across Africa consistently emphasized that sustained participation in the IETF remains constrained by a combination of structural factors. These include visa-related uncertainties, high travel and accommodation costs, and time-zone misalignment, all of which disproportionately affect contributors based in the Global South. As a result, individuals with relevant technical expertise often lack viable pathways to maintain long-term engagement in standards development processes.</t>
+      <t>Several discussions highlighted the catalytic effect that hosting IETF meetings in underrepresented regions could have on local academic and technical ecosystems. Beyond immediate participation gains, such events were described as having the potential to create visible role models, strengthen institutional engagement, and inspire future generations of engineers and policymakers to engage in Internet standards work.</t>
+      <t>Community members also repeatedly underscored the importance of informal, in-person interactions—often referred to as the "hallway track"—in building trust, collaboration, and consensus within the IETF. The inability to attend meetings physically, whether due to financial constraints or mobility restrictions, was widely perceived as limiting access to these critical aspects of participation, even when remote tools are available.</t>
+      <t>Finally, academic participants noted a systemic disconnect between Internet standards contributions and university incentive structures. In several discussions, it was observed that the absence of formal recognition of standards work (such as RFC authorship) in academic promotion and evaluation systems significantly reduces incentives for faculty members in developing regions to contribute to IETF processes.</t>
+    </section>
+
+    <section anchor="feedback" numbered="true" toc="default">
+      <name>Community Feedback and Observations</name>
+      <t>This section summarizes the key community feedback received through consultations, surveys, and direct engagement:</t>
+      <ul spacing="normal">
+        <li><t>The challenge of travel barriers (visas, safety, cost).</t></li>
+        <li><t>Limited regional rotation (e.g., no IETF meetings in Africa).</t></li>
+        <li><t>Importance of hallway track and in-person connections.</t></li>
+        <li><t>Barriers to mentorship and project engagement beyond venue issues.</t></li>
+        <li><t>The need for local communities to take ownership of IETF outreach and capacity-building, rather than waiting for invitations or funding from the Global North.</t></li>
+        <li><t>Lack of academic recognition disincentivizes participation from university researchers.</t></li>
+        <li><t>Timezone challenges for real-time participation in working groups.</t></li>
+        <li><t>Limited awareness of IETF processes and opportunities in underrepresented regions.</t></li>
+      </ul>
+    </section>
+
+    <section anchor="concerns" numbered="true" toc="default">
+      <name>Addressing Common Concerns</name>
+      <t>When discussing greater inclusion, several objections are frequently raised. This section addresses these concerns with evidence and practical responses:</t>
+      <ul spacing="normal">
+        <li><t><strong>"Logistical challenges are too great for hosting meetings in new regions"</strong>: Partner with local Internet Societies and leverage existing regional conference infrastructure (e.g., AFRINIC, AIS, SANOG events). Many African cities now have world-class conference facilities that host major international events.</t></li>
+        <li><t><strong>"Quality of contributions may decline with broader participation"</strong>: Evidence from other standards bodies (W3C, IEEE) demonstrates that diversity improves technical robustness by incorporating more edge cases and real-world deployment scenarios. Inclusion strengthens standards quality.</t></li>
+        <li><t><strong>"Cost is prohibitive for expanded participation programs"</strong>: Reallocate 5% of current IETF meeting budget to an inclusion fund; leverage hybrid participation tools to reduce travel needs; seek partnerships with regional development banks and foundations focused on digital inclusion.</t></li>
+        <li><t><strong>"We already have remote participation options"</strong>: While remote tools exist, they don't replicate the serendipitous collaboration of hallway tracks, informal mentoring, and relationship building that drives IETF work. A blended approach is needed.</t></li>
+        <li><t><strong>"Standards are technical, not political"</strong>: While technical excellence remains paramount, the selection of which problems to solve, which use cases to prioritize, and whose perspectives shape solutions inevitably involves considerations of representation and equity.</t></li>
+      </ul>
+    </section>
+
+    <section anchor="valueprop" numbered="true" toc="default">
+      <name>Communicating the Value Proposition</name>
+      <t>Framing inclusion as a strategic advantage rather than a compliance requirement can build broader support within the IETF community:</t>
+      <ul spacing="normal">
+        <li><t><strong>Technical Robustness</strong>: More diverse perspectives catch more edge cases and deployment challenges, leading to more resilient standards.</t></li>
+        <li><t><strong>Market Relevance</strong>: Standards that work effectively in Global South contexts (with bandwidth constraints, intermittent connectivity, diverse regulatory environments) will work better everywhere.</t></li>
+        <li><t><strong>Legitimacy and Adoption</strong>: Truly global standards developed with meaningful input from all regions enjoy broader adoption and implementation.</t></li>
+        <li><t><strong>Innovation Catalyst</strong>: Unique constraints in emerging markets (limited bandwidth, high latency, intermittent power) drive creative solutions that benefit all Internet users.</t></li>
+        <li><t><strong>Future-Proofing</strong>: The next billion Internet users will primarily come from currently underrepresented regions; their needs and contexts should shape today's standards.</t></li>
+        <li><t><strong>Risk Mitigation</strong>: Homogeneous standards development risks creating technical monocultures vulnerable to systemic failures; diversity builds resilience.</t></li>
+      </ul>
+    </section>
+
+    <section anchor="proposals" numbered="true" toc="default">
+      <name>Proposed Directions</name>
+
+      <section anchor="venue-dialogue" numbered="true" toc="default">
+        <name>Initiate Community Dialogues on Venue Inclusivity</name>
+        <t>Encourage structured discussions on how the IETF selects and rotates its venues, integrating considerations of safety, inclusion, and representation, especially as conditions evolve between selection and meeting time. Establish a transparent scoring system for potential venues that includes accessibility metrics, visa approval rates for diverse nationalities, and local community engagement plans.</t>
+      </section>
+
+      <section anchor="tools" numbered="true" toc="default">
+        <name>Develop Operational Tools for Assessment</name>
+        <t>Propose tools, scorecards, or collaborative reviews to assess venues and host countries based on inclusiveness, accessibility, and risk of exclusion. Develop a standardized assessment framework that can be applied consistently across potential meeting locations, including factors such as visa accessibility for Global South participants, physical accessibility, gender safety metrics, and cost of accommodation.</t>
+      </section>
+
+      <section anchor="regions" numbered="true" toc="default">
+        <name>Support Regional Engagement and Rotations</name>
+        <t>Explore concrete mechanisms to host meetings in underrepresented regions (e.g., Africa), including logistical partnerships, travel funds, and hybrid session enhancements. Establish a regional rotation schedule that ensures every major world region hosts an IETF meeting at least once every 5-7 years.</t>
+        
+        <section anchor="transformative-impact" numbered="true" toc="default">
+          <name>Transformative Impact of a Meeting in an Underrepresented Region</name>
+          <t>Holding an IETF meeting in Africa or another underrepresented region would serve as more than a logistical event; it would act as a powerful catalyst for awareness and ecosystem development. Such a meeting could:</t>
+          <ul spacing="normal">
+            <li><t>Raise visibility of the IETF among local policymakers, regulators, academia, and the private sector, demystifying the standards development process.</t></li>
+            <li><t>Stimulate academic interest, leading to curriculum integration and research partnerships between local universities and IETF participants.</t></li>
+            <li><t>Create a lasting legacy through local mirror events, mentorship networks, and continued collaboration with IETF working groups.</t></li>
+            <li><t>Send a strong symbolic message that the IETF is committed to becoming a truly global standards body, not merely a club of established participants.</t></li>
+            <li><t>Generate local media coverage and public awareness about Internet governance and technical standards, inspiring the next generation of contributors.</t></li>
+            <li><t>Build local organizational capacity for hosting major technical events, creating positive spillover effects for the regional Internet community.</t></li>
+          </ul>
+        </section>
+      </section>
+
+      <section anchor="academic-recognition" numbered="true" toc="default">
+        <name>Academic Recognition Pathways</name>
+        <t>To bridge the academia-IETF divide and create sustainable participation pipelines:</t>
+        <ul spacing="normal">
+          <li><t><strong>RFCs as peer-reviewed equivalents</strong>: Advocate for tenure committees to recognize RFCs (following German academic standards valuing RFCs as equivalent to 2 peer-reviewed papers). Develop guidelines for academic institutions on evaluating IETF contributions.</t></li>
+          <li><t><strong>University liaison program</strong>: Create formal roles for CS departments to co-develop standards. Appoint IETF ambassadors at universities in underrepresented regions to facilitate engagement.</t></li>
+          <li><t><strong>Curriculum integration</strong>: Partner with <eref target="https://www.aau.org/">AAU</eref> to offer academic credits for IETF contributions. Develop teaching modules on Internet standards for undergraduate and graduate programs.</t></li>
+          <li><t><strong>Local academic advocacy</strong>: Encourage universities in underrepresented regions to formally recognize IETF participation in promotion, tenure, and funding decisions. Create model promotion criteria that value standards contributions.</t></li>
+          <li><t><strong>Research partnerships</strong>: Facilitate joint research initiatives between IETF working groups and academic institutions, particularly on topics relevant to emerging markets.</t></li>
+        </ul>
+      </section>
+
+      <section anchor="grassroots" numbered="true" toc="default">
+        <name>Enhanced Grassroots Engagement and Youth Involvement</name>
+        <t>Foster collaboration with universities, local Internet communities, and grassroots organizations to demystify IETF processes, support mentorship programs, and identify new contributors from underrepresented regions.</t>
+        <t>For example for African participation:</t>
+        <ul spacing="normal">
+          <li><t>IETF mirror events at African universities with hybrid participation support, allowing local students to experience IETF processes without travel.</t></li>
+          <li><t>Mobilizing Internet Society local chapters to involve youth and academia in IETF work through dedicated outreach programs.</t></li>
+          <li><t>Mentorship pipelines connecting academia to WGs, pairing experienced IETF participants with newcomers from underrepresented regions.</t></li>
+          <li><t>Local "IETF awareness campaigns" led by chapters, universities, and regulators to promote the value of participation and demystify the standards process.</t></li>
+          <li><t>Student travel grants specifically for participants from underrepresented regions, with mentorship components to ensure meaningful engagement.</t></li>
+          <li><t>Regional IETF preparatory workshops before major meetings to onboard new participants and help them navigate IETF processes effectively.</t></li>
+        </ul>
+      </section>
+
+      <section anchor="multilingual" numbered="true" toc="default">
+        <name>Advance Multilingual and Accessible Communication</name>
+        <t>Consider translating key onboarding materials and IETF resources into additional languages to support broader global accessibility and comprehension. Develop metrics to track progress on inclusivity goals. Specific actions include:</t>
+        <ul spacing="normal">
+          <li><t>Translate the "Tao of IETF" and key orientation materials into French, Spanish, Arabic, Portuguese, and other major languages.</t></li>
+          <li><t>Provide live interpretation for plenary sessions in multiple languages, starting with hybrid meetings.</t></li>
+          <li><t>Develop visual guides and video tutorials explaining IETF processes for non-native English speakers.</t></li>
+          <li><t>Create a glossary of IETF terminology in multiple languages to lower the initial learning curve.</t></li>
+          <li><t>Establish a buddy system pairing non-native English speakers with native speakers for document review and presentation practice.</t></li>
+        </ul>
+      </section>
+
+      <section anchor="shared-responsibility" numbered="true" toc="default">
+        <name>Shared Responsibility and Multistakeholder Advocacy</name>
+        <t>Achieving equitable participation requires advocacy and action at all levels of Internet governance. Local stakeholders in underrepresented regions should:</t>
+        <ul spacing="normal">
+          <li><t><strong>Advocate within regional IGFs</strong> (e.g., Africa IGF, LACIGF) to include IETF participation as a standing agenda item, creating regular touchpoints between IETF and regional communities.</t></li>
+          <li><t><strong>Engage national regulators and ministries</strong> to facilitate visas, provide travel grants, and recognize IETF contributions in national digital strategies and human capital development plans.</t></li>
+          <li><t><strong>Organize local contribution workshops</strong> to train new contributors on how to engage with RFC development and working groups, building local capacity for sustained participation.</t></li>
+          <li><t><strong>Build partnerships</strong> between universities, ISOC chapters, and local industry to sponsor and mentor potential IETF participants, creating sustainable support ecosystems.</t></li>
+          <li><t><strong>Promote the narrative</strong> that contributing to global Internet standards is a matter of digital sovereignty and technical self-determination, not just technical hobbyism.</t></li>
+          <li><t><strong>Establish national IETF contact points</strong> within regulatory agencies and academic networks to coordinate participation efforts and share information.</t></li>
+        </ul>
+        <t>The IETF, in turn, should recognize and support these bottom-up initiatives through liaison programs, seed funding, and formal channels for regional input into meeting planning and policy development. This includes creating a dedicated budget line for global inclusion initiatives and establishing an Inclusion Advisory Group with diverse regional representation.</t>
+      </section>
+
+      <section anchor="pilot" numbered="true" toc="default">
+        <name>Proposed Pilot: IETF Africa Engagement Program</name>
+        <t>To move from discussion to action, this document proposes a 2-year pilot program focused on African engagement:</t>
+        <ul spacing="normal">
+          <li><t><strong>IETF Africa Fellowship Program</strong>: 20 fully-funded fellowships per IETF meeting for participants from African institutions, including travel, accommodation, and mentorship support.</t></li>
+          <li><t><strong>Regional Hub Coordination</strong>: Designated liaison officers in North, West, and East Africa to coordinate local engagement, identify potential contributors, and provide regional context to IETF processes.</t></li>
+          <li><t><strong>Academic Partnership Pilot</strong>: Formal partnerships with 5 leading African universities for curriculum integration, joint research, and faculty exchange programs focused on IETF-relevant topics.</t></li>
+          <li><t><strong>Pre-IETF Technical Deep-Dive</strong>: Regional technical workshops before IETF meetings to help new participants understand agenda items, prepare contributions, and build confidence for active participation.</t></li>
+          <li><t><strong>Local Mirror Event Program</strong>: Support for 3-5 local IETF mirror events per year across Africa, with hybrid connections to main meetings and dedicated session facilitators.</t></li>
+          <li><t><strong>Documentation and Evaluation</strong>: Comprehensive documentation of the pilot program with regular progress reports and a final evaluation to inform scaling to other regions.</t></li>
+        </ul>
+      </section>
+
+      <section anchor="wg" numbered="true" toc="default">
+        <name>Proposed: Global Inclusion Working Group</name>
+        <t>To provide structured oversight and coordination of inclusion efforts, this document proposes establishing a lightweight, time-bound working group:</t>
+        <ul spacing="normal">
+          <li><t><strong>Charter</strong>: 12-month charter to develop actionable recommendations and implementation plans for IETF inclusion initiatives.</t></li>
+          <li><t><strong>Representation</strong>: Equal representation from all global regions, with specific seats reserved for underrepresented regions.</t></li>
+          <li><t><strong>Deliverables</strong>: Three concrete deliverables: (1) updated venue selection guidelines with inclusion criteria, (2) design for a sustainable fellowship program, (3) framework for academic recognition of IETF contributions.</t></li>
+          <li><t><strong>Governance</strong>: Reports directly to IESG and IAOC with monthly progress updates and a final report with recommendations.</t></li>
+          <li><t><strong>Resources</strong>: Dedicated staff support from IETF Secretariat and modest budget for community consultations and outreach.</t></li>
+          <li><t><strong>Success Metrics</strong>: Clear metrics for evaluating the WG's effectiveness and impact on participation diversity.</t></li>
+        </ul>
+      </section>
+
+      <section anchor="successmetrics" numbered="true" toc="default">
+        <name>Proposed Success Metrics</name>
+        <t>Measurable progress is essential for evaluating the effectiveness of inclusion initiatives. The following table proposes specific targets for 2027 and 2030:</t>
+        <table anchor="table1"><thead><tr><th>Metric</th><th>Baseline (2025)</th><th>Target 2027</th><th>Target 2030</th></tr></thead><tbody><tr><td>Participants from Africa</td><td>&lt;5%</td><td>10%</td><td>20%</td></tr><tr><td>IETF meetings in Africa</td><td>0</td><td>1 bid submitted</td><td>1 meeting held</td></tr><tr><td>RFC authors from Africa</td><td>&lt;2%</td><td>5%</td><td>15%</td></tr><tr><td>Academic partnerships</td><td>Informal</td><td>5 universities</td><td>20 universities</td></tr><tr><td>Translated materials</td><td>English only</td><td>3 languages</td><td>10 languages</td></tr><tr><td>Fellowship participants</td><td>Ad hoc</td><td>40/year</td><td>100/year</td></tr><tr><td>WG chairs from Global South</td><td>15%</td><td>25%</td><td>40%</td></tr><tr><td>Visa approval rate improvement</td><td>Varies</td><td>+15%</td><td>+30%</td></tr></tbody></table><t>These metrics should be tracked annually and published in the IETF Annual Report, with progress reviewed by the proposed Inclusion Working Group.</t>
+      </section>
+    </section>
+
+    <section anchor="nextsteps" numbered="true" toc="default">
+      <name>Immediate Next Steps</name>
+      <t>This document calls for concrete actions from various stakeholders within the IETF ecosystem:</t>
+      <ol spacing="normal">
+        <li><t><strong>IETF Leadership</strong>: Establish an Inclusion Task Force by Q2 2026 with representation from all regions and stakeholder groups.</t></li>
+        <li><t><strong>IESG/IAB</strong>: Issue a joint statement of commitment to regional rotation and equitable participation, and allocate agenda time for regular inclusion progress reviews.</t></li>
+        <li><t><strong>IAOC</strong>: Allocate a dedicated budget line (minimum 5% of meeting budget) for Global South participation support in the 2027 budget cycle.</t></li>
+        <li><t><strong>IETF Secretariat</strong>: Develop the proposed assessment tools for venue selection and begin piloting in the 2027 meeting planning cycle.</t></li>
+        <li><t><strong>Working Group Chairs</strong>: Commit to mentoring at least one new contributor from an underrepresented region within their working groups.</t></li>
+        <li><t><strong>Regional Stakeholders</strong>: Form national IETF contact groups within 6 months to coordinate local engagement and advocacy efforts.</t></li>
+        <li><t><strong>Internet Society Chapters</strong>: Launch local IETF awareness campaigns and identify at least 3 potential contributors per chapter for mentorship.</t></li>
+        <li><t><strong>Academic Partners</strong>: Begin curriculum integration pilots in at least 2 universities per region within 12 months.</t></li>
+        <li><t><strong>Corporate Participants</strong>: Sponsor at least one fellowship participant from an underrepresented region per meeting.</t></li>
+        <li><t><strong>Community at Large</strong>: Participate in the proposed community dialogues on venue inclusivity and provide feedback on implementation proposals.</t></li>
+      </ol>
+    </section>
+
+    <section anchor="igf-pilot-initiative"><name>Illustrative Pilot Initiative: Standards for All – Bringing Global South Academia to IETF</name><t>One practical illustration of these approaches is a workshop proposal submitted to the Internet Governance Forum (IGF) 2026 entitled "Standards for All: Bringing Global South Academia to IETF".</t><t>The proposed session aims to explore how universities, research institutions, Internet governance communities, standards organizations, and technical communities can collaborate to improve awareness of Internet standards development and encourage broader participation in the IETF.</t><t>Preliminary discussions related to this initiative have involved participants from different stakeholder communities, including representatives from organizations active in Internet governance, technical coordination, education, and capacity development.</t><t>These exchanges have indicated interest in exploring collaborative approaches to improving awareness of the IETF and strengthening academic engagement with Internet standards development. These discussions remain exploratory and should not be interpreted as formal institutional endorsements or commitments.</t></section><section anchor="participation-continuum"><name>The IETF Participation Continuum</name><t>Participation in Internet standards development is rarely the result of a single intervention. Instead, it generally emerges through a progressive process involving awareness, learning, initial engagement, contribution, and community integration.</t><t>This document proposes considering inclusion in the IETF through a participation continuum composed of complementary stages:</t><ol><li><t>Awareness: understanding what the IETF is, how Internet standards are developed, and how individuals can participate.</t></li><li><t>Education and Training: providing accessible learning opportunities on Internet standards and IETF processes.</t></li><li><t>First Participation: enabling individuals to attend IETF meetings, participate remotely, join discussions, and interact with contributors.</t></li><li><t>Mentoring and Community Support: helping newcomers navigate technical discussions and contribution processes.</t></li><li><t>Technical Contributions: encouraging participation in Working Groups, reviews, and Internet-Draft development.</t></li><li><t>RFC Authorship and Community Leadership: supporting contributors toward authorship and leadership roles.</t></li></ol><t>Each stage reinforces the next. Expanding awareness increases the number of potential contributors. Education creates understanding. Mentoring facilitates effective participation. Sustained engagement can ultimately lead to broader representation among contributors and community leaders.</t></section><section anchor="ietf-awareness"><name>IETF Awareness as a Prerequisite for Inclusion</name><t>Many discussions on improving participation in the IETF focus on reducing barriers faced by individuals who are already aware of the organization and its processes. However, discussions within underrepresented communities suggest that another challenge often precedes participation itself: awareness.</t><t>A significant number of students, researchers, engineers, policymakers, and Internet practitioners remain unfamiliar with the IETF, its open participation model, and the process through which Internet-Drafts evolve into RFCs.</t><t>Improving awareness should therefore be considered a fundamental component of inclusion. Introducing Internet standards development concepts into academic programmes, research initiatives, technical training activities, and Internet governance discussions can help create sustainable pathways for future contributors.</t><t>Such awareness-building activities complement existing IETF outreach mechanisms by expanding the pool of individuals who may eventually engage in Working Groups, contribute to Internet-Drafts, and participate in the broader standards development ecosystem.</t></section><section anchor="conclusion" numbered="true" toc="default">
+      <name>Conclusion</name>
+      <t>This document does not propose immediate policy changes but instead seeks to foster thoughtful community reflection and encourage collaborative exploration of solutions that support the IETF's inclusivity goals. The proposals presented represent a comprehensive approach to addressing participation gaps through structural changes, targeted programs, and shared responsibility.</t>
+      <t>Through proposals on academic recognition, grassroots engagement, venue selection dialogue, multilingual participation, impact metrics, and shared responsibility, this draft aims to offer constructive directions grounded in community input and practical experience. The included pilot program, working group proposal, and success metrics provide a pathway from discussion to implementation.</t>
+      <t>By broadening participation and addressing structural imbalances, the IETF can continue to evolve as a truly global, open, and equitable standards body. The technical robustness, market relevance, and legitimacy of IETF standards will be strengthened through more diverse participation, ultimately benefiting all Internet users worldwide.</t>
+      <t>Community feedback is warmly invited to refine, challenge, or build upon these directions. This document should serve as a starting point for constructive dialogue and decisive action toward a more inclusive IETF.</t>
+    </section>
+  </middle>
+
+  <back>
+    <section anchor="changes-since-04"><name>Changes since -04</name><t>Introduced the concept of IETF Awareness as a prerequisite for sustainable inclusion.</t><t>Added the IETF Participation Continuum model describing pathways from awareness to technical contribution and community leadership.</t><t>Added discussion on community partnerships and collaborative approaches involving academia and Internet governance communities.</t><t>Added an illustrative pilot initiative related to IGF 2026 discussions on bringing Global South academia closer to IETF activities.</t></section><section anchor="acknowledgments" numbered="true" toc="default">
+      <name>Acknowledgments</name>
+      <t>The author thanks Martin Vigoureux, Peng Shuping, Michael Richardson, Laurence Lundblade, and Vint Cerf for their thoughtful feedback, which helped shape this version of the document. Additional thanks to participants in the Africa IGF 2025 consultations and members of the Internet Society African Chapters who provided invaluable insights and perspectives.</t>
+      <t>This document has benefited from discussions within the IETF Diversity and Inclusion working sessions, and from the pioneering work of earlier documents addressing participation challenges in standards development organizations.</t>
+    </section>
+
+    <section anchor="roadmap" numbered="true" toc="default">
+      <name>Appendix A: Draft Implementation Roadmap</name>
+      <t>This appendix outlines a proposed timeline for implementing the proposals in this document:</t>
+      <ol spacing="normal">
+        <li><t><strong>Q2 2026</strong>: Community consultation period on this draft; formation of Inclusion Task Force; initial translation of key onboarding materials into 3 languages.</t></li>
+        <li><t><strong>Q3 2026</strong>: Inclusion Task Force begins work; development of venue assessment tools; launch of academic recognition advocacy campaign.</t></li>
+        <li><t><strong>Q4 2026</strong>: Pilot fellowship program announced; first regional deep-dive workshop held; initial partnerships with 3 African universities established.</t></li>
+        <li><t><strong>Q1 2027</strong>: First cohort of fellowship participants selected; academic recognition guidelines published; updated venue selection criteria implemented.</t></li>
+        <li><t><strong>Q2 2027</strong>: First venue selection using new inclusion criteria; initial progress metrics published; first local mirror events supported.</t></li>
+        <li><t><strong>Q3 2027</strong>: Mid-point evaluation of pilot programs; adjustments based on lessons learned; expansion to additional regions begins.</t></li>
+        <li><t><strong>Q4 2027</strong>: Comprehensive evaluation of Year 1; planning for Year 2 expansion; preparation of first IETF meeting bid from African region.</t></li>
+        <li><t><strong>2028</strong>: Full implementation of successful pilot elements; scaling of programs to additional regions; ongoing metric tracking and reporting.</t></li>
+      </ol>
+    </section>
+  </back>
+</rfc>
