@@ -2,18 +2,14 @@
 
 ## Version -06 (in preparation, October 2026)
 
-- Replaced unsourced participation figures with sourced indicators (2024 IETF Community Survey, Research ICT Africa 2022); removed visa-refusal and leadership estimates pending verifiable data.
-- Restored a References section (RFC 7704, 8711, 8718, 8719, 9712, Carpenter & Partridge 2010, and others).
-- Replaced references to the IAOC (dissolved under RFC 8711) with the IETF Administration LLC.
-- Anchored the regional rotation proposal in the "exploratory meeting" mechanism of RFC 8719 as updated by RFC 9712.
+- Restructured around a two-track approach: action outside the IETF (demystifying the IETF, bringing academia and youth toward it, advocacy toward AUC, UNECA, UNESCO, AFRINIC, ISOC) and action within the IETF (lowering barriers, an IETF meeting in Africa as signal and point of convergence, measuring progress).
+- Shortened from 18 to 14 pages by merging overlapping sections (community voices, feedback and awareness merged into "Barriers"; value proposition and common concerns merged; pilot, working group and next steps merged).
+- Replaced unsourced figures with sourced indicators (2024 IETF Community Survey, Research ICT Africa 2022, Attoumani Mohamed & Velo, IEEE ICECER 2025).
+- Restored a References section; replaced the IAOC with the IETF Administration LLC; anchored the meeting proposal in the exploratory meeting mechanism (RFC 8719, RFC 9712).
 - Replaced the unsupported claim about German academic standards with Carpenter & Partridge (2010).
-- Reframed the Global Inclusion Working Group as a time-bound effort whose form is decided through IETF processes (GENDISPATCH, BoF).
-- Made metric targets indicative; replaced the calendar roadmap (dates already passed) with a phased roadmap.
-- Clarified that the community synthesis is qualitative and non-representative.
-- Referenced existing programs (ISOC Policymaker Program, IETF Education and Outreach Directorate).
-- Added a section "Institutional Advocacy and Partnerships" (AUC, UNECA, UNESCO, AFRINIC, ISOC), clarifying that such engagement does not imply any role in IETF decision-making.
-- Added the Africa IGF 2026 session "Africa at the Standards Table" (Accra, 3 November 2026).
-- Added Security and IANA Considerations; fixed the duplicated appendix title.
+- Replaced the proposed working group with a request to discuss the appropriate home for the proposals in GENDISPATCH.
+- Made targets indicative; replaced the calendar roadmap with a phased roadmap.
+- Added the Africa IGF 2025 and 2026 sessions as examples; added Security and IANA Considerations.
 
 ## Version -05 (11 August 2026)
 
