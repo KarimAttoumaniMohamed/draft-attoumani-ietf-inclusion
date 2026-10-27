@@ -95,17 +95,17 @@ Table of Contents
      9.5.  Enhanced Grassroots Engagement and Youth Involvement  . .  10
      9.6.  Advance Multilingual and Accessible Communication . . . .  11
      9.7.  Shared Responsibility and Multistakeholder Advocacy . . .  11
-     9.8.  Proposed Pilot: IETF Africa Engagement Program  . . . . .  12
-     9.9.  Proposed: A Time-Bound Global Inclusion Effort  . . . . .  13
-     9.10. Proposed Success Metrics  . . . . . . . . . . . . . . . .  13
-   10. Immediate Next Steps  . . . . . . . . . . . . . . . . . . . .  14
+     9.8.  Institutional Advocacy and Partnerships . . . . . . . . .  12
+     9.9.  Proposed Pilot: IETF Africa Engagement Program  . . . . .  13
+     9.10. Proposed: A Time-Bound Global Inclusion Effort  . . . . .  14
+     9.11. Proposed Success Metrics  . . . . . . . . . . . . . . . .  14
+   10. Immediate Next Steps  . . . . . . . . . . . . . . . . . . . .  15
    11. Illustrative Initiatives: Bringing the IETF to African and
-           Global South Forums . . . . . . . . . . . . . . . . . . .  15
-   12. The IETF Participation Continuum  . . . . . . . . . . . . . .  16
-   13. IETF Awareness as a Prerequisite for Inclusion  . . . . . . .  17
-   14. Conclusion  . . . . . . . . . . . . . . . . . . . . . . . . .  17
-   15. Security Considerations . . . . . . . . . . . . . . . . . . .  18
-   16. IANA Considerations . . . . . . . . . . . . . . . . . . . . .  18
+           Global South Forums . . . . . . . . . . . . . . . . . . .  16
+   12. The IETF Participation Continuum  . . . . . . . . . . . . . .  17
+   13. IETF Awareness as a Prerequisite for Inclusion  . . . . . . .  18
+   14. Conclusion  . . . . . . . . . . . . . . . . . . . . . . . . .  18
+   15. Security Considerations . . . . . . . . . . . . . . . . . . .  19
 
 
 
@@ -114,12 +114,13 @@ ATTOUMANI MOHAMED         Expires 30 April 2027                 [Page 2]
 Internet-Draft          Inclusive IETF Governance           October 2026
 
 
-   17. Informative References  . . . . . . . . . . . . . . . . . . .  18
-   Appendix A.  Draft Implementation Roadmap . . . . . . . . . . . .  19
-   Appendix B.  Changes since -05  . . . . . . . . . . . . . . . . .  20
-   Appendix C.  Changes since -04  . . . . . . . . . . . . . . . . .  21
-   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .  21
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  21
+   16. IANA Considerations . . . . . . . . . . . . . . . . . . . . .  19
+   17. Informative References  . . . . . . . . . . . . . . . . . . .  19
+   Appendix A.  Draft Implementation Roadmap . . . . . . . . . . . .  20
+   Appendix B.  Changes since -05  . . . . . . . . . . . . . . . . .  21
+   Appendix C.  Changes since -04  . . . . . . . . . . . . . . . . .  22
+   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .  23
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  23
 
 1.  Introduction
 
@@ -164,7 +165,6 @@ Internet-Draft          Inclusive IETF Governance           October 2026
 
 
 
-
 ATTOUMANI MOHAMED         Expires 30 April 2027                 [Page 3]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
@@ -192,7 +192,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    Earlier revisions of this document cited estimates for these; they
    have been removed pending verifiable data.  Establishing these
    baselines is itself one of the proposals of this document (see
-   Section 9.10).
+   Section 9.11).
 
    These indicators highlight structural imbalances that require
    targeted interventions to ensure that the IETF's technical standards
@@ -634,7 +634,70 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    [RFC8711], and an advisory mechanism with diverse regional
    representation.
 
-9.8.  Proposed Pilot: IETF Africa Engagement Program
+9.8.  Institutional Advocacy and Partnerships
+
+   Grassroots mobilization (Section 9.7) can be amplified by regional
+   and international organizations whose mandates already cover digital
+   development, higher education, Internet infrastructure, or Internet
+   governance in Africa.  This document encourages advocacy toward, and
+   partnerships with, such organizations, in particular:
+
+   *  _African Union Commission (AUC)_: Recognize participation in open
+      Internet standards development as a component of the
+      implementation of the Digital Transformation Strategy for Africa,
+      and encourage Member States to reflect it in national digital
+      strategies, skills programs, and research funding.
+
+   *  _United Nations Economic Commission for Africa (UNECA)_: As host
+      of the Africa IGF secretariat, support a recurring session on
+      Internet standards participation in the Africa IGF programme and
+      in national and sub-regional IGFs, and contribute research and
+      data on African participation in standards development
+      organizations.
+
+   *  _UNESCO_: Drawing on its mandates in higher education, science,
+      and multilingualism, and on its Internet Universality (ROAM-X)
+      indicators [UNESCO-ROAMX], encourage national assessments to
+      consider participation in open, multistakeholder standards
+      processes, support academic recognition of standards
+      contributions, and support the translation of onboarding
+      materials.
+
+   *  _AFRINIC_: As the Regional Internet Registry for Africa, and
+      together with regional technical events such as the African
+      Internet Summit, provide a natural venue for pre-IETF preparatory
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 12]
+
+Internet-Draft          Inclusive IETF Governance           October 2026
+
+
+      workshops, newcomer onboarding, and identification of technical
+      contributors from its membership, within the limits of its
+      institutional capacity.
+
+   *  _Internet Society (ISOC)_: Building on its existing Policymaker
+      Program and fellowship activities [ISOC-PMP], and on its network
+      of African chapters, expand IETF awareness and onboarding
+      activities in Africa and coordinate with the pilot proposed in
+      Section 9.9.
+
+   Other organizations could usefully be involved, for example African
+   research and education networks (such as WACREN, UbuntuNet Alliance,
+   and ASREN), AfNOG, Smart Africa, and the African Telecommunications
+   Union.
+
+   Such engagement aims at awareness, capacity building, recognition,
+   and support for individual participation.  It does not imply any role
+   for these organizations in IETF decision-making, which remains open
+   to all and based on the participation of individuals and on rough
+   consensus [RFC3935].  Advocacy should therefore focus on enabling
+   people from the region to participate directly in IETF work, rather
+   than on institutional representation.
+
+9.9.  Proposed Pilot: IETF Africa Engagement Program
 
    To move from discussion to action, this document proposes a 2-year
    pilot program focused on African engagement, designed in coordination
@@ -660,25 +723,22 @@ Internet-Draft          Inclusive IETF Governance           October 2026
       items, prepare contributions, and build confidence for active
       participation.
 
-   *  _Local Mirror Event Program_: Support for 3-5 local IETF mirror
-      events per year across Africa, with hybrid connections to main
-      meetings and dedicated session facilitators.
 
 
-
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 12]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 13]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
+
+   *  _Local Mirror Event Program_: Support for 3-5 local IETF mirror
+      events per year across Africa, with hybrid connections to main
+      meetings and dedicated session facilitators.
 
    *  _Documentation and Evaluation_: Documentation of the pilot program
       with regular progress reports and a final evaluation to inform
       scaling to other regions.
 
-9.9.  Proposed: A Time-Bound Global Inclusion Effort
+9.10.  Proposed: A Time-Bound Global Inclusion Effort
 
    To provide structured coordination of inclusion efforts, this
    document proposes a lightweight, time-bound effort.  Its exact form
@@ -710,7 +770,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    *  _Success Metrics_: Clear metrics for evaluating the effort's
       impact on participation diversity.
 
-9.10.  Proposed Success Metrics
+9.11.  Proposed Success Metrics
 
    Measurable progress is essential for evaluating the effectiveness of
    inclusion initiatives.  The following table proposes indicative
@@ -721,11 +781,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
 
 
 
-
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 13]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 14]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
@@ -767,7 +823,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
 
    These metrics could be tracked annually and published in the IETF
    Annual Report, with progress reviewed by the effort proposed in
-   Section 9.9.  Any collection of data on visa outcomes must be
+   Section 9.10.  Any collection of data on visa outcomes must be
    voluntary, aggregated, and respect participants' privacy.
 
 10.  Immediate Next Steps
@@ -781,7 +837,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
 
 
 
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 14]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 15]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
@@ -815,7 +871,12 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    9.   _Corporate Participants_: Sponsor fellowship participants from
         underrepresented regions.
 
-   10.  _Community at Large_: Participate in the proposed dialogues on
+   10.  _Regional and International Organizations_ (e.g., AUC, UNECA,
+        UNESCO, AFRINIC, ISOC): Include IETF participation in their
+        capacity-building, higher-education, and Internet governance
+        programmes, as described in Section 9.8.
+
+   11.  _Community at Large_: Participate in the proposed dialogues on
         venue inclusivity and provide feedback on implementation
         proposals.
 
@@ -826,21 +887,22 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    submitted to the Internet Governance Forum (IGF) 2026 entitled
    "Standards for All: Bringing Global South Academia to IETF".
 
+
+
+
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 16]
+
+Internet-Draft          Inclusive IETF Governance           October 2026
+
+
    The proposed session aims to explore how universities, research
    institutions, Internet governance communities, standards
    organizations, and technical communities can collaborate to improve
    awareness of Internet standards development and encourage broader
    participation in the IETF.
-
-
-
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 15]
-
-Internet-Draft          Inclusive IETF Governance           October 2026
-
 
    A second illustration is the session "Africa at the Standards Table:
    Why Participation in the IETF Matters", scheduled at the Africa
@@ -885,18 +947,15 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    5.  Technical Contributions: encouraging participation in working
        groups, reviews, and Internet-Draft development.
 
-   6.  RFC Authorship and Community Leadership: supporting contributors
-       toward authorship and leadership roles.
 
 
-
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 16]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 17]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
+
+   6.  RFC Authorship and Community Leadership: supporting contributors
+       toward authorship and leadership roles.
 
    Each stage reinforces the next.  Expanding awareness increases the
    number of potential contributors.  Education creates understanding.
@@ -904,7 +963,7 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    can ultimately lead to broader representation among contributors and
    community leaders.  The proposals in Section 9 can be read as
    interventions at one or more of these stages, and the metrics in
-   Section 9.10 as a way to observe progression between them.
+   Section 9.11 as a way to observe progression between them.
 
 13.  IETF Awareness as a Prerequisite for Inclusion
 
@@ -943,16 +1002,17 @@ Internet-Draft          Inclusive IETF Governance           October 2026
    Through proposals on academic recognition, grassroots engagement,
    venue selection dialogue, multilingual participation, impact metrics,
    and shared responsibility, this draft aims to offer constructive
-   directions grounded in community input and practical experience.  The
-   included pilot program, coordination proposal, and indicative metrics
-   provide a pathway from discussion to implementation.
 
 
 
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 17]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 18]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
+
+   directions grounded in community input and practical experience.  The
+   included pilot program, coordination proposal, and indicative metrics
+   provide a pathway from discussion to implementation.
 
    By broadening participation and addressing structural imbalances, the
    IETF can continue to evolve as a truly global, open, and equitable
@@ -999,16 +1059,20 @@ Internet-Draft          Inclusive IETF Governance           October 2026
               <https://www.internetsociety.org/policy-programs/
               policymakers-program-to-ietf/>.
 
-   [RFC7704]  Crocker, D. and N. Clark, "An IETF with Much Diversity and
-              Professional Conduct", RFC 7704, DOI 10.17487/RFC7704,
-              November 2015, <https://www.rfc-editor.org/info/rfc7704>.
 
 
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 18]
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 19]
 
 Internet-Draft          Inclusive IETF Governance           October 2026
 
+
+   [RFC3935]  Alvestrand, H., "A Mission Statement for the IETF",
+              BCP 95, RFC 3935, DOI 10.17487/RFC3935, October 2004,
+              <https://www.rfc-editor.org/info/rfc3935>.
+
+   [RFC7704]  Crocker, D. and N. Clark, "An IETF with Much Diversity and
+              Professional Conduct", RFC 7704, DOI 10.17487/RFC7704,
+              November 2015, <https://www.rfc-editor.org/info/rfc7704>.
 
    [RFC8711]  Haberman, B., Hall, J., and J. Livingood, "Structure of
               the IETF Administrative Support Activity, Version 2.0",
@@ -1037,11 +1101,26 @@ Internet-Draft          Inclusive IETF Governance           October 2026
               motivations-and-challenges-of-african-contributions-to-
               the-internet-standards-development/>.
 
+   [UNESCO-ROAMX]
+              UNESCO, "Internet Universality Indicators (ROAM-X)",
+              <https://www.unesco.org/en/internet-universality-
+              indicators>.
+
 Appendix A.  Draft Implementation Roadmap
 
    This appendix outlines an indicative sequence for implementing the
    proposals in this document.  Phases are expressed relative to the
    start of community discussion rather than as fixed calendar dates.
+
+
+
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 20]
+
+Internet-Draft          Inclusive IETF Governance           October 2026
+
 
    1.  _Phase 1 (months 0-6)_: Community discussion of this draft in
        GENDISPATCH and regional forums; agreement on the form of the
@@ -1058,13 +1137,6 @@ Appendix A.  Draft Implementation Roadmap
        track; academic recognition guidelines published; feasibility
        assessment of an exploratory meeting in Africa completed; first
        local mirror events supported.
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 19]
-
-Internet-Draft          Inclusive IETF Governance           October 2026
-
 
    4.  _Phase 4 (months 18-24)_: Evaluation of pilot programs;
        adjustments based on lessons learned; decision on scaling to
@@ -1096,6 +1168,16 @@ Appendix B.  Changes since -05
       with a reference to Carpenter and Partridge (2010) on RFCs as
       scholarly publications.
 
+
+
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 21]
+
+Internet-Draft          Inclusive IETF Governance           October 2026
+
+
    *  Reframed the proposed Global Inclusion Working Group as a time-
       bound effort whose form is to be decided through IETF processes
       (GENDISPATCH, BoF), accountable to the IESG.
@@ -1113,14 +1195,10 @@ Appendix B.  Changes since -05
    *  Added references to existing programs (ISOC Policymaker Program,
       IETF Education and Outreach Directorate).
 
-
-
-
-
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 20]
-
-Internet-Draft          Inclusive IETF Governance           October 2026
-
+   *  Added a section on institutional advocacy and partnerships with
+      regional and international organizations (AUC, UNECA, UNESCO,
+      AFRINIC, ISOC), with a clarification that such engagement does not
+      imply any role in IETF decision-making.
 
    *  Added the Africa IGF 2026 session "Africa at the Standards Table"
       as an illustrative initiative.
@@ -1144,6 +1222,17 @@ Appendix C.  Changes since -04
    *  Added an illustrative pilot initiative related to IGF 2026
       discussions on bringing Global South academia closer to IETF
       activities.
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 22]
+
+Internet-Draft          Inclusive IETF Governance           October 2026
+
 
 Acknowledgments
 
@@ -1173,4 +1262,27 @@ Author's Address
 
 
 
-ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 21]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED         Expires 30 April 2027                [Page 23]
