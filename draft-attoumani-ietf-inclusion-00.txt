@@ -1,0 +1,336 @@
+
+
+
+
+Network Working Group                               K. ATTOUMANI MOHAMED
+Internet-Draft                                     Chapitre ISOC Comores
+Intended status: Informational                              8 April 2025
+Expires: 10 October 2025
+
+
+ The IETF is for Everyone: Toward Inclusive and Equitable Participation
+                         in Internet Governance
+                   draft-attoumani-ietf-inclusion-00
+
+Abstract
+
+   This document affirms that the governance and activities of the IETF
+   must be inclusive, accessible, and safe for all individuals,
+   regardless of geography, language, race, gender, or sexual
+   orientation.  While the IETF promotes global Internet standards for
+   everyone, structural and contextual barriers still limit the full and
+   equal participation of many stakeholders, particularly from
+   underrepresented regions and marginalized communities.  This draft
+   proposes key principles and recommendations to ensure that IETF
+   meetings and processes reflect the foundational values of openness,
+   diversity, inclusion, and non-discrimination.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 10 October 2025.
+
+Copyright Notice
+
+   Copyright (c) 2025 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 1]
+
+Internet-Draft               IETF Inclusion                   April 2025
+
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Problem Statement . . . . . . . . . . . . . . . . . . . . . .   2
+   3.  Principles for Inclusive Governance . . . . . . . . . . . . .   3
+   4.  Recommendations . . . . . . . . . . . . . . . . . . . . . . .   3
+   5.  The Value of Diversity and Multilingual Innovation  . . . . .   4
+   6.  Conclusion  . . . . . . . . . . . . . . . . . . . . . . . . .   5
+   7.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   5
+   Appendix A.  Security Considerations  . . . . . . . . . . . . . .   5
+   Appendix B.  IANA Considerations  . . . . . . . . . . . . . . . .   5
+   Appendix C.  Author's Address . . . . . . . . . . . . . . . . . .   5
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+1.  Introduction
+
+   The IETF's mission to create a globally interoperable Internet cannot
+
+   be fulfilled unless its governance is itself inclusive,
+
+   representative, and accessible to all individuals, regardless of
+
+   origin, language, identity, or location.
+
+2.  Problem Statement
+
+   Challenges include:
+
+   - Hosting meetings in countries with policies that exclude groups
+
+   (e.g., LGBTQ+);
+
+   - English as the sole working language limits global participation;
+
+   - High participation costs for attendees from developing countries;
+
+   - Lack of support and safety mechanisms for newcomers or marginalized
+
+   groups.
+
+   Example: Hosting IETF 122 in San Francisco, while the U.S. federal
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 2]
+
+Internet-Draft               IETF Inclusion                   April 2025
+
+
+   government disregards LGBTQ+ rights, may hinder safe participation.
+
+3.  Principles for Inclusive Governance
+
+   The following principles aim to ensure that IETF governance,
+
+   meetings, and processes are inclusive in both design and
+
+   implementation:
+
+   - Zero tolerance for discrimination across all IETF spaces and
+
+   interactions, including on the basis of race, gender, language,
+
+   region, ability, or sexual orientation;
+
+   - Safe, inclusive, and legally enabling meeting locations, selected
+
+   with explicit consideration of local human rights and the freedom
+
+   to participate without fear of exclusion or persecution;
+
+   - Active inclusion strategies, not just openness—including targeted
+
+   outreach, accessible documentation, and cultural sensitivity;
+
+   - Linguistic and cultural diversity, promoted through multilingual
+
+   interfaces, translated summaries, and AI-powered accessibility
+
+   tools;
+
+   - Equity-driven financial and technical support mechanisms,
+
+   prioritizing participation from underrepresented regions and
+
+   communities;
+
+   - Inclusion as a measurable success metric, with regular public
+
+   reporting on progress and challenges.
+
+4.  Recommendations
+
+   To operationalize the principles of inclusive governance, this draft
+
+   recommends the following actions:
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 3]
+
+Internet-Draft               IETF Inclusion                   April 2025
+
+
+   - Participation Impact Assessments should be systematically conducted
+
+   for every proposed IETF meeting venue, evaluating risks related to
+
+   discrimination, legal exclusion, and safety for all stakeholders;
+
+   - Selection of host countries should prioritize jurisdictions with
+
+   clear commitments to human rights, non-discrimination, and safe
+
+   civic space, especially for marginalized groups;
+
+   - Promotion of multilingualism through the use of AI-based
+   translation
+
+   tools, the availability of key documents in multiple languages, and
+
+   the encouragement of multilingual interactions;
+
+   - Expansion of mentoring and newcomer programs, with special focus on
+
+   participants from developing economies, non-English-speaking
+
+   regions, and underrepresented communities;
+
+   - Creation of safe spaces during meetings and implementation of clear
+
+   and visible enforcement mechanisms for the IETF's Code of Conduct;
+
+   - Proactive inclusion of diverse voices in working groups,
+   leadership,
+
+   decision-making processes, and community consultations;
+
+   - Annual publication of an "Inclusion and Accessibility Report",
+
+   assessing progress and identifying ongoing gaps in diversity,
+
+   equity, and participation.
+
+5.  The Value of Diversity and Multilingual Innovation
+
+   The diversity of perspectives—across cultures, economies, and lived
+
+   experiences—has been shown to be a key driver of innovation and
+
+   creativity.  For the Internet to truly serve everyone, it must evolve
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 4]
+
+Internet-Draft               IETF Inclusion                   April 2025
+
+
+   in ways that reflect the diversity of global needs, contexts, and
+
+   cultural habits.  In the age of Artificial Intelligence, multilingual
+
+   systems offer a significant opportunity to improve accessibility to
+
+   IETF work, display existing outputs in more languages, and facilitate
+
+   better interactions across communities.  These innovations can
+   amplify
+
+   the participation of underrepresented voices and enhance the
+
+   inclusiveness of the IETF process.
+
+6.  Conclusion
+
+   The Internet is a global resource.  The IETF must reflect this in its
+
+   values, operations, and community engagement.  Everyone must feel
+   safe,
+
+   welcomed, and empowered to contribute.
+
+7.  Acknowledgements
+
+   Inspired by RFC 3271, RFC 8890, and the lived experiences of Global
+
+   South and marginalized communities working for a better Internet.
+
+Appendix A.  Security Considerations
+
+   This document introduces no new protocol and has no security
+   implications.
+
+Appendix B.  IANA Considerations
+
+   This document does not require any IANA actions.
+
+Appendix C.  Author's Address
+
+   Karim ATTOUMANI MOHAMED
+
+   Chapitre ISOC Comores
+
+   Email: karimattoumanimohamed@gmail.com
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 5]
+
+Internet-Draft               IETF Inclusion                   April 2025
+
+
+Author's Address
+
+   Karim ATTOUMANI MOHAMED
+   Chapitre ISOC Comores
+   Comoros
+   Email: karimattoumanimohamed@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 10 October 2025                [Page 6]

@@ -30,15 +30,15 @@ Participation in the IETF remains very unevenly distributed across regions, and 
 
 | Revision | Datatracker date | Files in this repository |
 |----------|------------------|--------------------------|
-| -00 | 2025-04-10 | `draft-attoumani-ietf-inclusion-00.xml` |
-| -01 | 2025-04-11 | `draft-attoumani-ietf-inclusion-01.xml` |
-| -02 | 2025-04-22 | `draft-attoumani-ietf-inclusion-02.xml` |
+| -00 | 2025-04-10 | `draft-attoumani-ietf-inclusion-00.xml`, `.txt`, `.html` |
+| -01 | 2025-04-11 | `draft-attoumani-ietf-inclusion-01.xml`, `.txt`, `.html` |
+| -02 | 2025-04-22 | `draft-attoumani-ietf-inclusion-02.xml`, `.txt`, `.html` |
 | -03 | 2025-08-07 | `draft-attoumani-ietf-inclusion-03.xml`, `.txt`, `.html` (co-authored with C. Ogundele) |
 | -04 | 2026-02-08 | `draft-attoumani-ietf-inclusion-04.xml`, `.txt`, `.html` |
 | -05 | 2026-08-11 | `draft-attoumani-ietf-inclusion-05.xml`, `.txt`, `.html` |
 | -06 | 2026-10-28 | `draft-attoumani-ietf-inclusion-06.xml`, `.txt`, `.html` |
 
-The authoritative copies of every revision are archived on the [Datatracker](https://datatracker.ietf.org/doc/draft-attoumani-ietf-inclusion/). See [CHANGELOG.md](CHANGELOG.md) for the changes between revisions.
+TXT and HTML files are rendered with xml2rfc from the XML sources in this repository. The authoritative copies of every revision are archived on the [Datatracker](https://datatracker.ietf.org/doc/draft-attoumani-ietf-inclusion/). See [CHANGELOG.md](CHANGELOG.md) for the changes between revisions.
 
 ## Audience
 

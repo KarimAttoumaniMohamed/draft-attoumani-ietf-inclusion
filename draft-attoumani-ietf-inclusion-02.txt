@@ -1,0 +1,280 @@
+
+
+
+
+Individual Submission                               K. ATTOUMANI MOHAMED
+Internet-Draft                                     Chapitre ISOC Comores
+Intended status: Informational                             23 April 2025
+Expires: 25 October 2025
+
+
+ The IETF is for Everyone: Toward Inclusive and Equitable Participation
+                         in Internet Governance
+                   draft-attoumani-ietf-inclusion-02
+
+Abstract
+
+   This document affirms that the governance and activities of the IETF
+   must be inclusive, accessible, and safe for all individuals,
+   regardless of geography, language, race, gender, or sexual
+   orientation.  It expands on prior diversity and venue policy RFCs and
+   calls for community reflection on enhancing participation through
+   inclusive meeting practices and multilingual support.
+
+Status of this Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 25 October 2025.
+
+Copyright Notice
+
+   Copyright (c) 2025 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 25 October 2025                [Page 1]
+
+Internet-Draft          Inclusive IETF Governance             April 2025
+
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+     1.1.  Scope and Audience  . . . . . . . . . . . . . . . . . . .   2
+     1.2.  Context . . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Problem Statement: Exclusion in IETF Governance Practices . .   3
+   3.  Review of Existing RFCs and Gaps  . . . . . . . . . . . . . .   3
+   4.  Principles for Inclusive Meeting Participation  . . . . . . .   3
+   5.  Considerations for Safe and Equitable Venue Selection . . . .   3
+   6.  Multilingualism as an Enabler . . . . . . . . . . . . . . . .   3
+   7.  Recommendations (Non-Prescriptive)  . . . . . . . . . . . . .   3
+     7.1.  Initiate Community Dialogues on Venue Inclusivity . . . .   4
+     7.2.  Develop Guidelines for Safety and Diversity Assessment  .   4
+     7.3.  Encourage Multilingual Interface Support  . . . . . . . .   4
+   8.  Next Steps and Community Discussion . . . . . . . . . . . . .   4
+   9.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   4
+   10. IANA and Security Considerations  . . . . . . . . . . . . . .   4
+   11. Normative References  . . . . . . . . . . . . . . . . . . . .   4
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+1.  Introduction
+
+1.1.  Scope and Audience
+
+   This document is primarily intended for the IETF community to prompt
+   internal reflection and dialogue on inclusiveness in meeting
+   governance.  It may also be of interest to external observers, such
+   as standards organizations, governance bodies, and civil society
+   actors interested in transparent and equitable Internet
+   infrastructure development.
+
+1.2.  Context
+
+   The IETF promotes an open, global Internet.  This draft builds upon
+   the principles in RFC 3271, RFC 7704, RFC 8718, and RFC 9501,
+   identifying gaps in inclusivity that persist—particularly regarding
+   venue selection and equitable participation for all identities and
+   regions.
+
+
+
+
+ATTOUMANI MOHAMED        Expires 25 October 2025                [Page 2]
+
+Internet-Draft          Inclusive IETF Governance             April 2025
+
+
+2.  Problem Statement: Exclusion in IETF Governance Practices
+
+   Although the IETF values openness, many contributors still face
+   barriers based on region, identity, or legal/political context.  Some
+   venues discourage participation from marginalized communities due to
+   safety or legal risks, e.g., LGBTQ+ individuals.  Venue policy lacks
+   human rights and inclusivity criteria.
+
+3.  Review of Existing RFCs and Gaps
+
+   This draft complements:
+
+   - RFC 8718: Meeting Venue Requirements
+
+   - RFC 8719: High-Level Meeting Policy
+
+   - RFC 7704: Diversity and Conduct
+
+   - RFC 9501: Remote Participation Fees
+
+   None of these documents define safety, nor do they provide tools for
+   evaluating host country inclusiveness or human rights implications.
+
+4.  Principles for Inclusive Meeting Participation
+
+   - Prioritize safety, dignity, and legal protection of all
+   participants
+
+   - Expand outreach and support to underrepresented regions and
+   identities
+
+   - Apply a non-discrimination filter in site selection
+
+5.  Considerations for Safe and Equitable Venue Selection
+
+   Venue policies should include criteria assessing the risk of
+   exclusion due to local laws or societal practices.  A Participation
+   Impact Assessment could help guide decisions.
+
+6.  Multilingualism as an Enabler
+
+   Multilingualism should be viewed as a support mechanism for broader
+   inclusion, not as a separate issue.  AI-based tools now allow real-
+   time translation of materials and transcripts, enabling greater
+   accessibility for non-English speakers.
+
+7.  Recommendations (Non-Prescriptive)
+
+
+
+
+ATTOUMANI MOHAMED        Expires 25 October 2025                [Page 3]
+
+Internet-Draft          Inclusive IETF Governance             April 2025
+
+
+7.1.  Initiate Community Dialogues on Venue Inclusivity
+
+   It is recommended to begin with community-wide discussions to assess
+   whether the current venue policies sufficiently address inclusivity
+   and equitable participation.  This could be explored in informal side
+   meetings, BoFs, or through Gen-Dispatch.  Open conversations are
+   essential for validating whether the issue resonates broadly before
+   pursuing structural changes.
+
+7.2.  Develop Guidelines for Safety and Diversity Assessment
+
+   Establish a non-binding set of guidelines or a Participation Impact
+   Assessment model to help assess the legal, social, and cultural
+   inclusivity of candidate host cities.  These tools would help the
+   LLC, Secretariat, or selecting bodies to make informed, equitable
+   decisions without overburdening the process.
+
+7.3.  Encourage Multilingual Interface Support
+
+   Promote multilingual access to IETF resources by leveraging AI-
+   powered translation tools for scribing, document summaries, and tool
+   interfaces.  Although English remains the working language,
+   technological progress offers real opportunities to reduce friction
+   for non-English speakers.
+
+8.  Next Steps and Community Discussion
+
+   This draft is intended to initiate a broader dialogue.  A side
+   meeting during IETF 123 will serve as a forum for input and co-
+   development of future solutions.
+
+9.  Acknowledgements
+
+   Thanks to the IETF community members who supported early discussion
+   on this issue, especially during IETF 122 and informal feedback
+   sessions.
+
+10.  IANA and Security Considerations
+
+   This document requires no actions from IANA and has no protocol-level
+   security implications.  It supports the psychological safety and
+   inclusion of contributors.
+
+11.  Normative References
+
+Author's Address
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 25 October 2025                [Page 4]
+
+Internet-Draft          Inclusive IETF Governance             April 2025
+
+
+   Karim ATTOUMANI MOHAMED
+   Chapitre ISOC Comores
+   Comoros
+   Email: karimattoumanimohamed@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTOUMANI MOHAMED        Expires 25 October 2025                [Page 5]
