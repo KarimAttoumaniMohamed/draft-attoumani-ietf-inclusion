@@ -1,6 +1,6 @@
 # Changelog – draft-attoumani-ietf-inclusion
 
-## Version -06 (in preparation, October 2026)
+## Version -06 (28 October 2026)
 
 - Restructured around a two-track approach: action outside the IETF (demystifying the IETF, bringing academia and youth toward it, advocacy toward AUC, UNECA, UNESCO, AFRINIC, ISOC) and action within the IETF (lowering barriers, an IETF meeting in Africa as signal and point of convergence, measuring progress).
 - Shortened from 18 to 14 pages by merging overlapping sections (community voices, feedback and awareness merged into "Barriers"; value proposition and common concerns merged; pilot, working group and next steps merged).

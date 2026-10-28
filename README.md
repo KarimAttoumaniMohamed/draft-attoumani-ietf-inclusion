@@ -1,7 +1,7 @@
 # The IETF is for Everyone: Toward Inclusive and Equitable Participation in Internet Governance
 
 **Draft name:** `draft-attoumani-ietf-inclusion`
-**Current revision:** `-05` (11 August 2026, expires 12 February 2027)
+**Current revision:** `-06` (28 October 2026, expires 1 May 2027)
 **Author:** Karim ATTOUMANI MOHAMED
 **Affiliation:** University of Toamasina / ISOC Comoros Chapter
 **Status:** Individual Internet-Draft, intended status Informational (no stream, not adopted by a working group)
@@ -9,24 +9,22 @@
 
 ## Online versions
 
-- Latest revision on the IETF Datatracker: [draft-attoumani-ietf-inclusion-05](https://datatracker.ietf.org/doc/html/draft-attoumani-ietf-inclusion-05)
-- Formats: [TXT](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-05.txt) · [HTML](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-05.html) · [XML](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-05.xml)
-- Diff with the previous revision: [-04 → -05](https://author-tools.ietf.org/iddiff?url1=draft-attoumani-ietf-inclusion-04&url2=draft-attoumani-ietf-inclusion-05)
+- Latest revision on the IETF Datatracker: [draft-attoumani-ietf-inclusion-06](https://datatracker.ietf.org/doc/html/draft-attoumani-ietf-inclusion-06)
+- Formats: [TXT](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-06.txt) · [HTML](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-06.html) · [XML](https://www.ietf.org/archive/id/draft-attoumani-ietf-inclusion-06.xml)
+- Diff with the previous revision: [-05 → -06](https://author-tools.ietf.org/iddiff?url1=draft-attoumani-ietf-inclusion-05&url2=draft-attoumani-ietf-inclusion-06)
 - GitHub Pages preview: https://karimattoumanimohamed.github.io/draft-attoumani-ietf-inclusion/
 
 ## Abstract
 
-This document aims to foster a deeper reflection within the IETF community on inclusive participation, equitable access, and the implications of global meeting venue selections on diverse contributors. It seeks to complement existing RFCs by proposing additional dialogue, tools, and evaluation mechanisms, while also highlighting the shared responsibility of underrepresented regions in mobilizing local stakeholders to engage with the IETF. This draft includes concrete proposals, metrics, and an implementation roadmap to move from discussion to action.
+Participation in the IETF remains very unevenly distributed across regions, and Africa is among the least represented. This document argues that closing this gap is a shared responsibility and proposes a two-track approach. Outside the IETF, universities, technical communities, Internet governance forums, and regional institutions in underrepresented regions need to demystify the IETF and bring academics, students, and young engineers toward its work. Within the IETF, barriers to entry can be lowered further, and holding an IETF meeting in Africa would send a strong signal and act as a catalyst, meeting a local community prepared by the first track. The document proposes concrete actions, indicative metrics, and next steps for both tracks.
 
-## What the -05 revision covers
+## Structure of -06
 
-- Participation metrics and gaps, alignment with global digital governance frameworks
-- Synthesis of regional community discussions (Africa IGF 2025, ISOC chapters)
-- Responses to common objections and the value proposition of inclusion
-- Proposed directions: venue inclusivity, assessment tools, regional rotation, academic recognition, grassroots and youth engagement, multilingual communication, shared responsibility
-- Proposed pilot (IETF Africa Engagement Program), a time-bound Global Inclusion Working Group, success metrics for 2027 and 2030
-- New in -05: the **IETF Participation Continuum** (awareness → education → first participation → mentoring → contribution → RFC authorship/leadership), **IETF awareness as a prerequisite for inclusion**, and an illustrative pilot linked to the IGF 2026 workshop proposal *"Standards for All: Bringing Global South Academia to IETF"*
-- Appendix: draft implementation roadmap
+- **The participation gap**: sourced indicators and barriers (awareness, recognition, cost and mobility, the hallway track, language)
+- **A two-track approach**, built on a participation continuum from awareness to leadership
+- **Track A, outside the IETF**: demystifying the IETF, bringing academia and youth toward it, advocacy toward AUC, UNECA, UNESCO, AFRINIC and ISOC
+- **Track B, within the IETF**: lowering barriers to entry, an IETF meeting in Africa under the exploratory-meeting mechanism (RFC 8719, RFC 9712), measuring progress
+- Why this matters to the IETF, next steps, indicative roadmap
 
 ## Revision history
 
@@ -38,7 +36,7 @@ This document aims to foster a deeper reflection within the IETF community on in
 | -03 | 2025-08-07 | `draft-attoumani-ietf-inclusion-03.xml`, `.txt`, `.html` (co-authored with C. Ogundele) |
 | -04 | 2026-02-08 | `draft-attoumani-ietf-inclusion-04.xml`, `.txt`, `.html` |
 | -05 | 2026-08-11 | `draft-attoumani-ietf-inclusion-05.xml`, `.txt`, `.html` |
-| -06 | in preparation | `draft-attoumani-ietf-inclusion-06.xml`, `.txt`, `.html` (not yet submitted) |
+| -06 | 2026-10-28 | `draft-attoumani-ietf-inclusion-06.xml`, `.txt`, `.html` |
 
 The authoritative copies of every revision are archived on the [Datatracker](https://datatracker.ietf.org/doc/draft-attoumani-ietf-inclusion/). See [CHANGELOG.md](CHANGELOG.md) for the changes between revisions.
 
